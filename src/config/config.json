@@ -1,0 +1,20 @@
+{
+  "geographyLayers": [
+    {
+      "name": "US",
+      "itemId": "ae3d1c019b0040178abe138a0e8a41a6",
+      "visible": false
+    },
+    {
+      "name": "States",
+      "itemId": "7198861502fd464790c5e16df91c1409",
+      "visible": true
+    },
+    {
+      "name": "Counties",
+      "itemId": "6f8606daac5e4720bf22d463d22a10ee",
+      "visible": false
+    }
+  ],
+  "dimensions": []
+}
