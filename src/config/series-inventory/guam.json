@@ -1,0 +1,2322 @@
+[
+  {
+    "goal": "goal1",
+    "itemid": "d6b4a23636d64777b091936b8360a7c8",
+    "series_inventory": [
+      {
+        "itemid": "0296fe7424f24c31bb871ec012273488",
+        "name": "Number of deaths and missing persons attributed to disasters per 100 000 population (number) (VC_DSR_MTMP)"
+      },
+      {
+        "itemid": "05106560b4a34692ab5cec0ba5c31339",
+        "name": "Number of people whose livelihoods were disrupted or destroyed  attributed to disasters (number) (VC_DSR_PDLN)"
+      },
+      {
+        "itemid": "0b0158d3a1d64cdaa203d174d767e715",
+        "name": "[ILO] Proportion of population with severe disabilities receiving disability cash benefit  by sex (percent) (SI_COV_DISAB)"
+      },
+      {
+        "itemid": "0bddb3ab5fb847a9b74a00b66668a803",
+        "name": "Number of deaths due to disaster (number) (VC_DSR_MORT)"
+      },
+      {
+        "itemid": "139eba4d21a841028a7015eb0546df47",
+        "name": "Direct economic loss in the housing sector attributed to disasters (current United States dollars) (VC_DSR_HOLH)"
+      },
+      {
+        "itemid": "1f7c5d6891f941979efcb857ff14c6c8",
+        "name": "[ILO] Proportion of population covered by at least one social protection benefit  by sex (percent) (SI_COV_BENFTS)"
+      },
+      {
+        "itemid": "374aade2dbd748eb97c63be2cae99e1c",
+        "name": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (percent) (SG_DSR_SILS)"
+      },
+      {
+        "itemid": "3b5c86548b65441d9664b1693f90b856",
+        "name": "Direct agriculture loss attributed to disasters (current United States dollars) (VC_DSR_AGLH)"
+      },
+      {
+        "itemid": "48c56f636cbe47a7be387c3b1f226d8b",
+        "name": "Number of missing persons due to disaster (number) (VC_DSR_MISS)"
+      },
+      {
+        "itemid": "6664a5d9364646b3a01e473f5709f7e5",
+        "name": "Proportion of people with legally recognized documentation of their rights to land out of total adult population  by sex (percent) (SP_LGL_LNDDOC)"
+      },
+      {
+        "itemid": "6839d49b25c845e083bb5a3e36e40c2d",
+        "name": "[ILO] Proportion of population above statutory pensionable age receiving a pension  by sex (percent) (SI_COV_PENSN)"
+      },
+      {
+        "itemid": "68b03bfe194b4a1587aeb06d38d4f0f1",
+        "name": "[ILO] Proportion of employed population covered in the event of work injury  by sex (percent) (SI_COV_WKINJRY)"
+      },
+      {
+        "itemid": "69930dab870e4ae5bfbd3d7f99f4c034",
+        "name": "[World Bank] Proportion of population covered by social insurance programs (percent) (SI_COV_SOCINS)"
+      },
+      {
+        "itemid": "6ce4cc2b68824da4bc002af9e2b8332e",
+        "name": "Number of people whose destroyed dwellings were attributed to disasters (number) (VC_DSR_PDYN)"
+      },
+      {
+        "itemid": "72ac632d1454414483227ec449ee99a4",
+        "name": "[World Bank] Proportion of population covered by social assistance programs (percent) (SI_COV_SOCAST)"
+      },
+      {
+        "itemid": "74ce015eae114ddcae449cd9ad48919d",
+        "name": "Proportion of children living in child-specific multidimensional poverty (percent) (SD_MDP_CSMP)"
+      },
+      {
+        "itemid": "7d0631a384a04f2b8778605d50f375c5",
+        "name": "Direct economic loss attributed to disasters (current United States dollars) (VC_DSR_GDPLS)"
+      },
+      {
+        "itemid": "7d18be7919ec4cfd8cb693617d5415e0",
+        "name": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number) (SG_DSR_SILN)"
+      },
+      {
+        "itemid": "84c77fc329384afa99ec7e884d1e79c9",
+        "name": "Proportion of population using basic drinking water services  by location (percent) (SP_ACS_BSRVH2O)"
+      },
+      {
+        "itemid": "89aea141fd144334ac4173223a65723c",
+        "name": "Official development assistance grants for poverty reduction  by donor countries (percentage of GNI) (DC_ODA_POVDLG)"
+      },
+      {
+        "itemid": "8d5fc0902a4b4871b4a7e8b4c7e6bf03",
+        "name": "Official development assistance grants for poverty reduction  by recipient countries (percentage of GNI) (DC_ODA_POVLG)"
+      },
+      {
+        "itemid": "8f1698e70b314fdcac5068506cdadf60",
+        "name": "[ILO] Proportion of mothers with newborns receiving maternity cash benefit (percent) (SI_COV_MATNL)"
+      },
+      {
+        "itemid": "9f623a99a28d4ec0ae03843e197fbd90",
+        "name": "Proportion of total government spending on essential services  education (percent) (SD_XPD_ESED)"
+      },
+      {
+        "itemid": "a0b11b517f6e4a9fa247c2f9fb9e8be2",
+        "name": "[ILO] Proportion of children households receiving child family cash benefit  by sex (percent) (SI_COV_CHLD)"
+      },
+      {
+        "itemid": "a4070ec30c2c497ca27f35fd35748b1d",
+        "name": "Official development assistance grants for poverty reduction (percentage of GNI) (DC_ODA_POVG)"
+      },
+      {
+        "itemid": "a8c9a3d68fdc4901b22d3be598b80826",
+        "name": "[ILO] Proportion of unemployed persons receiving unemployment cash benefit  by sex (percent) (SI_COV_UEMP)"
+      },
+      {
+        "itemid": "b24598b7761e42a7befbdd25cb57c564",
+        "name": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars) (VC_DSR_DDPA)"
+      },
+      {
+        "itemid": "b4f605923b99493191859bbce7b69dec",
+        "name": "[ILO] Proportion of vulnerable population receiving social assistance cash benefit  by sex (percent) (SI_COV_VULN)"
+      },
+      {
+        "itemid": "bb597c9343fa4a41919fa1ed074f6d8a",
+        "name": "Number of people whose damaged dwellings were attributed to disasters (number) (VC_DSR_PDAN)"
+      },
+      {
+        "itemid": "bd2a35a9574848f4a4aa91c6bc166362",
+        "name": "Proportion of people who perceive their rights to land as secure out of total adult population  by sex (percent) (SP_LGL_LNDSEC)"
+      },
+      {
+        "itemid": "bd545d7e345f4335af2f5f63c5814cca",
+        "name": "Proportion of population living below the national poverty line (percent) (SI_POV_NAHC)"
+      },
+      {
+        "itemid": "be98182dd0514b878b56e2f232073230",
+        "name": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars) (VC_DSR_CILN)"
+      },
+      {
+        "itemid": "c2f4ed50d80f454c8ba01cede99b44e7",
+        "name": "Direct economic loss attributed to disasters relative to GDP (percent) (VC_DSR_LSGP)"
+      },
+      {
+        "itemid": "c347390f78c14ab0a1905727ba459283",
+        "name": "Proportion of people with secure tenure rights to land out of total adult population  by sex (percent) (SP_LGL_LNDSTR)"
+      },
+      {
+        "itemid": "cc9db83aec8e414f9ef9bcce51d30523",
+        "name": "Number of deaths and missing persons attributed to disasters (number) (VC_DSR_MMHN)"
+      },
+      {
+        "itemid": "d12a17434b0c442883dac884b370f098",
+        "name": "Number of injured or ill people attributed to disasters (number) (VC_DSR_IJILN)"
+      },
+      {
+        "itemid": "d2c8d1945e6b488abce705a2058a3d43",
+        "name": "Number of directly affected persons attributed to disasters per 100 000 population (number) (VC_DSR_DAFF)"
+      },
+      {
+        "itemid": "d4618365455f4d6f8a0d87e0cef12a44",
+        "name": "Proportion of households living in multidimensional poverty (percent) (SD_MDP_MUHHC)"
+      },
+      {
+        "itemid": "d46f8c71adc94bdc9a900fbafb763c53",
+        "name": "Proportion of population living in multidimensional poverty (percent) (SD_MDP_MUHC)"
+      },
+      {
+        "itemid": "dcc6fc5c86124910b07b67526f4b597a",
+        "name": "Proportion of population below international poverty line (percent) (SI_POV_DAY1)",
+        "seriesCode": "SI_POV_DAY1"
+      },
+      {
+        "itemid": "de9e4243edcb4291abc4a84a34cdd81a",
+        "name": "[ILO] Proportion of poor population receiving social assistance cash benefit  by sex (percent) (SI_COV_POOR)"
+      },
+      {
+        "itemid": "e29e6d5ea66944f79b477687a0847945",
+        "name": "Number of people affected by disaster (number) (VC_DSR_AFFCT)"
+      },
+      {
+        "itemid": "ec05c06937cd44e6934769eecbbc1adf",
+        "name": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework (SG_DSR_LGRGSR)"
+      },
+      {
+        "itemid": "ec7bfb8e9f76448a9ca5e284bf727938",
+        "name": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars) (VC_DSR_CHLN)"
+      },
+      {
+        "itemid": "f25f044b7e394c8e846e38ea9b37dee8",
+        "name": "Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework (SG_DSR_SFDRR)"
+      },
+      {
+        "itemid": "f5d52036de6a4e9da371b7e337aeb954",
+        "name": "Average proportion of deprivations for people multidimensionally poor (percent) (SD_MDP_ANDI)"
+      },
+      {
+        "itemid": "f6d8f290c7bf49f2a874301155e028f6",
+        "name": "Proportion of population using basic sanitation services  by location (percent) (SP_ACS_BSRVSAN)"
+      },
+      {
+        "itemid": "f91170764701424cb2145aa7849f14ec",
+        "name": "[World Bank] Proportion of population covered by labour market programs (percent) (SI_COV_LMKT)"
+      },
+      {
+        "itemid": "fcaf90a31823406c809bfc3a49bed820",
+        "name": "Number of local governments (number) (SG_GOV_LOGV)"
+      },
+      {
+        "itemid": "fe3d580691b34bc4909751992943e92e",
+        "name": "Employed population below international poverty line  by sex and age (percent) (SI_POV_EMP1)"
+      }
+    ]
+  },
+  {
+    "goal": "goal2",
+    "itemid": "6480679a10c043719f33ec499307cb6c",
+    "series_inventory": [
+      {
+        "itemid": "018e8da425a24decbdde62a87eaaec32",
+        "name": "Children moderately or severely wasted (thousands) (SH_STA_WASTN)"
+      },
+      {
+        "itemid": "13e3c5c4465847b88a06975bb4538753",
+        "name": "Agriculture orientation index for government expenditures (AG_PRD_ORTIND)"
+      },
+      {
+        "itemid": "170f9caf494648ea9e5a26602cb7ecb5",
+        "name": "Prevalence of moderate or severe food insecurity in the adult population (percent) (AG_PRD_FIESMS)"
+      },
+      {
+        "itemid": "180d7821440a4b0a88b94eeada199f3b",
+        "name": "Proportion of women aged 15-49 years with anaemia (percent) (SH_STA_ANEM)"
+      },
+      {
+        "itemid": "266432dfde784c6081d9ad11d00648a9",
+        "name": "Agriculture share of Government Expenditure (percent) (AG_XPD_AGSGB)"
+      },
+      {
+        "itemid": "28a8310209324feab3aba5a8df3b4669",
+        "name": "Proportion of children moderately or severely wasted (percent) (SH_STA_WAST)"
+      },
+      {
+        "itemid": "303d039f41a44ee7812edd63de4154ac",
+        "name": "Productivity of large-scale food producers (agricultural output per labour day  PPP) (constant 2011 international ) (PD_AGR_LSFP)"
+      },
+      {
+        "itemid": "3a45610c9126405494acee4e5345d1a2",
+        "name": "Indicator of Food Price Anomalies (IFPA)  by type of product (AG_FPA_COMM)"
+      },
+      {
+        "itemid": "4e33521b86824fa2b7f37368f51aa480",
+        "name": "Proportion of women aged 15-49 years with anaemia  non-pregnant (percent) (SH_STA_ANEM_NPRG)"
+      },
+      {
+        "itemid": "50e73a5cecc24b94bffd33d4ac56ea76",
+        "name": "Productivity of small-scale food producers (agricultural output per labour day  PPP) (constant 2011 international ) (PD_AGR_SSFP)"
+      },
+      {
+        "itemid": "60ef2a7da38b4c75a1ebd39932ac979e",
+        "name": "Agricultural export subsidies (millions of current United States dollars) (AG_PRD_XSUBDY)"
+      },
+      {
+        "itemid": "66d175ad6da04fca861c30e385165587",
+        "name": "Average income of large-scale food producers  PPP (constant 2011 international ) (SI_AGR_LSFP)"
+      },
+      {
+        "itemid": "688943e4772940d39c6b381cdd4f5ef1",
+        "name": "Proportion of women aged 15-49 years with anaemia  pregnant (percent) (SH_STA_ANEM_PREG)"
+      },
+      {
+        "itemid": "6a021187100e4d90bfa80407cd1ddf9d",
+        "name": "Total official flows (disbursements) for agriculture  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_AGRL)"
+      },
+      {
+        "itemid": "70c331f7b0c8461d8e7226adc5fd6950",
+        "name": "Number of local breeds for which sufficient genetic resources are stored for reconstitution (ER_GRF_ANIMRCNTN)"
+      },
+      {
+        "itemid": "71b2f3b0ca4f439491f477934f620512",
+        "name": "Total population in moderate or severe food insecurity (thousands of people) (AG_PRD_FIESMSN)"
+      },
+      {
+        "itemid": "76d9d84c0f0145298f0f0babe04bfaef",
+        "name": "Proportion of children moderately or severely stunted (percent) (SH_STA_STNT)"
+      },
+      {
+        "itemid": "7a658ff09cc047e0a145bf02a9831eec",
+        "name": "Number of undernourish people (millions) (SN_ITK_DEFCN)"
+      },
+      {
+        "itemid": "8232c72b364b4a8cb8b1890b2d072697",
+        "name": "Proportion of children moderately or severely overweight (percent) (SN_STA_OVWGT)"
+      },
+      {
+        "itemid": "84f8357d6f2341beb84d11fd2ee8221c",
+        "name": "Prevalence of severe food insecurity in the adult population (percent) (AG_PRD_FIESS)"
+      },
+      {
+        "itemid": "9705fb94abc34ab4b62375737b6eae9c",
+        "name": "Consumer Food Price Index (AG_FPA_CFPI)"
+      },
+      {
+        "itemid": "b2cdcfd896be42788ecfda28b758a965",
+        "name": "Children moderately or severely overweight (thousands) (SN_STA_OVWGTN)"
+      },
+      {
+        "itemid": "b93312681cf645698787f44058525861",
+        "name": "Proportion of countries recording abnormally high or moderately high food prices  according to the Indicator of Food Price Anomalies (percent) (AG_FPA_HMFP)"
+      },
+      {
+        "itemid": "c49fad802e384d27a66eb6213dca8487",
+        "name": "Average income of small-scale food producers  PPP (constant 2011 international ) (SI_AGR_SSFP)"
+      },
+      {
+        "itemid": "c4a5ac3267024495816603a8c3c2055d",
+        "name": "Plant breeds for which sufficient genetic resources are stored (number) (ER_GRF_PLNTSTOR)"
+      },
+      {
+        "itemid": "c8710e3bd97e4b9c82aad3f3cc65bd84",
+        "name": "Children moderately or severely stunted (thousands) (SH_STA_STNTN)"
+      },
+      {
+        "itemid": "cccc8125eb4940ee91d534f00daad9e5",
+        "name": "Total population in severe food insecurity (thousands of people) (AG_PRD_FIESSN)"
+      },
+      {
+        "itemid": "d3c048518cda4e42baf269b558dfddc2",
+        "name": "Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (percent) (ER_RSK_LBREDS)"
+      },
+      {
+        "itemid": "d751e6ff0ad04640a3c57f3982b6f277",
+        "name": "Prevalence of undernourishment (percent) (SN_ITK_DEFC)"
+      },
+      {
+        "itemid": "fd9fe94a52a84802af231751a8e07437",
+        "name": "Agriculture value added share of GDP (percent) (AG_PRD_AGVAS)"
+      }
+    ]
+  },
+  {
+    "goal": "goal3",
+    "itemid": "01f6251f16844937834d12addd869ed5",
+    "series_inventory": [
+      {
+        "itemid": "0162b96173c74ce29ef14274bb76d0b9",
+        "name": "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (percent) (SH_ACS_DTP3)"
+      },
+      {
+        "itemid": "04bd048721fc46d69b6ca257ea42e7b3",
+        "name": "Number of deaths attributed to non-communicable diseases  by type of disease and sex (number) (SH_DTH_NCD)"
+      },
+      {
+        "itemid": "12d703dde7cf4af6909a8089dad413b3",
+        "name": "Age-standardized mortality rate attributed to household air pollution (deaths per 100 000 population) (SH_HAP_ASMORT)"
+      },
+      {
+        "itemid": "13bbcf6edd5f422abeaf54141b884b73",
+        "name": "Coverage of treatment interventions (pharmacological  psychosocial and rehabilitation and aftercare services) for substance use disorders (percent) (SH_SUD_TREAT)"
+      },
+      {
+        "itemid": "18e9159793e04c8d96456063f8746061",
+        "name": "Prevalence of hepatitis B surface antigen (HBsAg) (percent) (SH_HAP_HBSAG)"
+      },
+      {
+        "itemid": "197e1af9959049c28be58b69a31a000c",
+        "name": "Number of people requiring interventions against neglected tropical diseases (number) (SH_TRP_INTVN)"
+      },
+      {
+        "itemid": "1c98da9b224f433baeed2922e2ee8552",
+        "name": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100 000 population) (SH_AAP_ASMORT)"
+      },
+      {
+        "itemid": "3245aabb066d4030b5443f4f9e9855d6",
+        "name": "Crude death rate attributed to household and ambient air pollution (deaths per 100 000 population) (SH_STA_AIRP)"
+      },
+      {
+        "itemid": "3b35e326b0634404b71149b750028ba1",
+        "name": "Neonatal mortality rate (deaths per 1 000 live births) (SH_DYN_NMRT)"
+      },
+      {
+        "itemid": "4379ebc190694da8ad9988ffd20cf5d1",
+        "name": "Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g.  ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (percent) (SH_BLD_ECOLI)"
+      },
+      {
+        "itemid": "43be4e9abb7b4954ae0ee0c588bec088",
+        "name": "Suicide mortality rate  by sex (deaths per 100 000 population) (SH_STA_SCIDE)"
+      },
+      {
+        "itemid": "444d546587a447ff8fa53499743750bd",
+        "name": "Number of deaths attributed to suicide  by sex (number) (SH_STA_SCIDEN)"
+      },
+      {
+        "itemid": "47507d7630ed47369eb12e056a962a96",
+        "name": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (percent) (SH_HLF_EMED)"
+      },
+      {
+        "itemid": "492203c946524bd8a4381d1da28080c6",
+        "name": "Tuberculosis incidence (per 100 000 population) (SH_TBS_INCD)"
+      },
+      {
+        "itemid": "4cc97f9227934e1889b5671fe71ed4ee",
+        "name": "Mortality rate attributed to cardiovascular disease  cancer  diabetes or chronic respiratory disease (probability) (SH_DTH_NCOM)",
+        "seriesCode": "SH_DTH_NCOM"
+      },
+      {
+        "itemid": "4f8cff912c4341c9b6671a4e43bbd9fa",
+        "name": "Infant deaths (number) (SH_DYN_IMRTN)"
+      },
+      {
+        "itemid": "5428ef1a2abd4006ad3967dd6a0f7a1a",
+        "name": "Infant mortality rate (deaths per 1 000 live births) (SH_DYN_IMRT)"
+      },
+      {
+        "itemid": "5716e966670a41cd9dd2172798cb1b8b",
+        "name": "Total official development assistance to medical research and basic heath sectors  gross disbursement  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_HLTHL)"
+      },
+      {
+        "itemid": "5f96bde963c2423cab61d41ed515d4e7",
+        "name": "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (percent) (SH_ACS_PCV3)"
+      },
+      {
+        "itemid": "69ddbc8901bc482da3f82a42e35a4003",
+        "name": "Proportion of population with large household expenditures on health (greater than 25percent) as a share of total household expenditure or income (percent) (SH_XPD_EARN25)"
+      },
+      {
+        "itemid": "6ba2c88325eb4ed58c777551585180a1",
+        "name": "Crude death rate attributed to household air pollution (deaths per 100 000 population) (SH_HAP_MORT)"
+      },
+      {
+        "itemid": "722f87ef94d24d64a6b715d13c8a767d",
+        "name": "Neonatal deaths (number) (SH_DYN_NMRTN)"
+      },
+      {
+        "itemid": "7b679a19d90146a3b11dd5bfa80f8a05",
+        "name": "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100 000 population) (SH_STA_ASAIRP)"
+      },
+      {
+        "itemid": "7ccde77a150b4d20b176bd29b4326c0b",
+        "name": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older  by sex (percent) (SH_PRV_SMOK)"
+      },
+      {
+        "itemid": "8066346c882e446f870548ee8df416bb",
+        "name": "Number of new HIV infections per 1 000 uninfected population  by sex and age (per 1 000 uninfected population) (SH_HIV_INCD)"
+      },
+      {
+        "itemid": "8398a99615a9411a98401e9cdf631362",
+        "name": "Adolescent birth rate (per 1 000 women aged 15-19 years) (SP_DYN_ADKL)"
+      },
+      {
+        "itemid": "89b6195975064de9bcfeaeedaaf56459",
+        "name": "Mortality rate attributed to unintentional poisonings  by sex (deaths per 100 000 population) (SH_STA_POISN)"
+      },
+      {
+        "itemid": "9a1fa5a8b0bd4d19899d3ec2a736daee",
+        "name": "Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis  human papillomavirus (HPV) (percent) (SH_ACS_HPV)"
+      },
+      {
+        "itemid": "9b9400191de448a49c266011f3631167",
+        "name": "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (percent) (SH_ACS_MCV2)"
+      },
+      {
+        "itemid": "9e2f7cb6c9a2427a8be67472b174d1e6",
+        "name": "Crude death rate attributed to ambient air pollution (deaths per 100 000 population) (SH_AAP_MORT)"
+      },
+      {
+        "itemid": "ab6978c366914d649ad9f6de5303b91f",
+        "name": "Under-five mortality rate  by sex (deaths per 1 000 live births) (SH_DYN_MORT)"
+      },
+      {
+        "itemid": "b7c5f0ad583946f89d65e4f5f468ca90",
+        "name": "Mortality rate attributed to unsafe water  unsafe sanitation and lack of hygiene (deaths per 100 000 population) (SH_STA_WASH)"
+      },
+      {
+        "itemid": "c4d43aba523a4252b032253599028ecf",
+        "name": "Universal health coverage (UHC) service coverage index (SH_ACS_UNHC)"
+      },
+      {
+        "itemid": "c6eec07aad154600832fb5eb6b79002f",
+        "name": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (percent of women aged 15-49 years) (SH_FPL_MTMM)"
+      },
+      {
+        "itemid": "cf07ab45cf9b4f53a24fc1e0722e68d4",
+        "name": "Under-five deaths (number) (SH_DYN_MORTN)"
+      },
+      {
+        "itemid": "d13a4f8f7c134bd588a32dd3a64fc096",
+        "name": "Total official development assistance to medical research and basic heath sectors  net disbursement  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_HLTHNT)"
+      },
+      {
+        "itemid": "d1ae18eead584198ba8a608bd2ee36e5",
+        "name": "International Health Regulations (IHR) capacity  by type of IHR capacity (percent) (SH_IHR_CAPS)"
+      },
+      {
+        "itemid": "d2f1fc62e3064633b9e24712b4edfc88",
+        "name": "Health worker distribution  by sex and type of occupation (percent) (SH_MED_HWRKDIS)"
+      },
+      {
+        "itemid": "d3b7b1f777204245946f9fef35d4230f",
+        "name": "Alcohol use disorders  12-month prevalence (percent) (SH_SUD_ALCOL)"
+      },
+      {
+        "itemid": "e240f64d0e4a462ea7a93052560d592a",
+        "name": "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (percent) (SH_BLD_MRSA)"
+      },
+      {
+        "itemid": "e35ba74bcb194113af534726ad54c7b4",
+        "name": "Malaria incidence per 1 000 population at risk (per 1 000 population) (SH_STA_MALR)"
+      },
+      {
+        "itemid": "e9ce31a21bd5445c94c6f93ad4217fdb",
+        "name": "Maternal mortality ratio (SH_STA_MORT)"
+      },
+      {
+        "itemid": "efc99d87999e4b4cba3c2cc45bf663d9",
+        "name": "Proportion of population with large household expenditures on health (greater than 10percent) as a share of total household expenditure or income (percent) (SH_XPD_EARN10)"
+      },
+      {
+        "itemid": "f0569cc87498457cba0fbc57a77b664c",
+        "name": "Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol) (SH_ALC_CONSPT)"
+      },
+      {
+        "itemid": "f36f8728d7684170ae40b21536168a4c",
+        "name": "Health worker density  by type of occupation (per 10 000 population) (SH_MED_DEN)"
+      },
+      {
+        "itemid": "f7f014b52c3344ac973f92e0f02f393c",
+        "name": "Proportion of births attended by skilled health personnel (percent) (SH_STA_BRTC)"
+      },
+      {
+        "itemid": "f956e9edd0b94dbf8738fb6aed1c6d08",
+        "name": "Death rate due to road traffic injuries  by sex (per 100 000 population) (SH_STA_TRAF)"
+      }
+    ]
+  },
+  {
+    "goal": "goal4",
+    "itemid": "81ffb6438e624f9590761626858fb41b",
+    "series_inventory": [
+      {
+        "itemid": "1c33a174cadf4c5db70fc51c27938d78",
+        "name": "Adjusted wealth parity index for completion rate  by sex  location  wealth quintile and education level (SE_AWP_CPRA)"
+      },
+      {
+        "itemid": "447ba4819e3b472687d45537dfe2185c",
+        "name": "Proportion of youth and adults with information and communications technology (ICT) skills  by sex and type of skill (percent) (SE_ADT_ACTS)"
+      },
+      {
+        "itemid": "4928eafca44d4f1cb3d0db3ea69d0181",
+        "name": "Schools with basic handwashing facilities  by education level (percent) (SE_ACC_HNDWSH)"
+      },
+      {
+        "itemid": "4e6aa3302be24896b788252417049ce0",
+        "name": "Proportion of population achieving at least a fixed level of proficiency in functional skills  by sex  age and type of skill (percent) (SE_ADT_FUNS)"
+      },
+      {
+        "itemid": "541e20ccf1f646d59c4d820c23c71448",
+        "name": "Schools with access to\u00a0access to single-sex basic sanitation  by education level (percent) (SE_ACS_SANIT)"
+      },
+      {
+        "itemid": "557a0f6e9b2b4826b5262dc836069818",
+        "name": "Total official flows for scholarships  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_SCHIPSL)"
+      },
+      {
+        "itemid": "59b16a91bad349fb85ae98d4bd457501",
+        "name": "Immigration status parity index for achieving at least a fixed level of proficiency in functional skills  by numeracy literacy skills (ratio) (SE_IMP_FPOF)"
+      },
+      {
+        "itemid": "631b655f9ce74f00bf902d263a282ab2",
+        "name": "Adjusted location parity index for completion rate  by sex  location  wealth quintile and education level (SE_ALP_CPLR)"
+      },
+      {
+        "itemid": "6c625915d8304737bc33666de5f8d507",
+        "name": "Schools with access to basic drinking water  by education level (percent) (SE_ACS_H2O)"
+      },
+      {
+        "itemid": "8510c7195db34210adde30d78d6fe7c1",
+        "name": "Participation rate in organized learning (one year before the official primary entry age)  by sex (percent) (SE_PRE_PARTN)"
+      },
+      {
+        "itemid": "93072abdb7ca40aab8520dcf611a3574",
+        "name": "Gender parity index of trained teachers  by education level (ratio) (SE_GPI_TCAQ)"
+      },
+      {
+        "itemid": "93b854449f04429199057e79639cd007",
+        "name": "Gender parity index for achievement (ratio) (SE_TOT_GPI)"
+      },
+      {
+        "itemid": "965ac00e9d694ef4b9ded87ebadd8ab9",
+        "name": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (percent) (SE_TOT_PRFL)"
+      },
+      {
+        "itemid": "9669801dfd1143bb963a901436263e0a",
+        "name": "Gender parity index for participation rate in formal and non-formal education and training (ratio) (SE_GPI_PART)"
+      },
+      {
+        "itemid": "997f4a23c9ea4c94802292bcc7c2642f",
+        "name": "Native parity index for achievement (ratio) (SE_NAP_ACHI)"
+      },
+      {
+        "itemid": "9cd8a81903e1485aa0408b60fb35eb61",
+        "name": "Language test parity index for achievement (ratio) (SE_LGP_ACHI)"
+      },
+      {
+        "itemid": "a050141085f647c0b4590dfe5329412b",
+        "name": "Completion rate  by sex  location  wealth quintile and education level (percent) (SE_TOT_CPLR)"
+      },
+      {
+        "itemid": "ad68c688b8d54de3a9ab8f42dc5bcc68",
+        "name": "Schools with access to\u00a0computers for pedagogical purposes  by education level (percent) (SE_ACS_CMPTR)"
+      },
+      {
+        "itemid": "aea4c59218944ebfb70821c6b9dc7a4f",
+        "name": "Gender parity index for youth adults with information and communications technology (ICT) skills  by type of skill (ratio) (SE_GPI_ICTS)"
+      },
+      {
+        "itemid": "bcd128204e234cf1942d3b6e9defff17",
+        "name": "Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country  by sex and education level (percent) (SE_TR.."
+      },
+      {
+        "itemid": "bff96ecfaaad4d649347a81d18a82e07",
+        "name": "Proportion of children aged 3659 months who are developmentally on track in at least three of the following domains: literacy-numeracy  physical development  social-emotional development  and learning (percent of children aged 36-59 months) (SE_DEV_.."
+      },
+      {
+        "itemid": "c0accc61710e4a62b2788384c8026581",
+        "name": "Schools with access to the internet for pedagogical purposes  by education level (percent) (SE_ACS_INTNT)"
+      },
+      {
+        "itemid": "c19b93e45f5d43f481dbd3d46e55a4bb",
+        "name": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities  by education level (percent) (SE_INF_DSBL)"
+      },
+      {
+        "itemid": "c2cd0ef8622042f3adfc584d32258ff4",
+        "name": "Gender parity index for participation rate in organized learning (one year before the official primary entry age)  (ratio) (SE_GPI_PTNPRE)"
+      },
+      {
+        "itemid": "cceecfc83ed14335a242a6bcb8d45a66",
+        "name": "Schools with access to\u00a0electricity  by education level (percent) (SE_ACS_ELECT)"
+      },
+      {
+        "itemid": "d402b1dc8fdf45658cdffeed89319015",
+        "name": "Adjusted gender parity index for completion rate  by sex  location  wealth quintile and education level (SE_AGP_CPRA)"
+      },
+      {
+        "itemid": "d9bc455c8e0d4e4c99ce89bfda1a2307",
+        "name": "Participation rate in formal and non-formal education and training  by sex (percent) (SE_ADT_EDUCTRN)"
+      },
+      {
+        "itemid": "ee248a401ff64cd282c83c60120be77a",
+        "name": "Low to high socio-economic parity status index for achievement (ratio) (SE_TOT_SESPI)"
+      },
+      {
+        "itemid": "f3ad0ee488a64c5b979b0d70b7011c3f",
+        "name": "Rural to urban parity index for achievement (ratio) (SE_TOT_RUPI)"
+      }
+    ]
+  },
+  {
+    "goal": "goal5",
+    "itemid": "7193d1841d1844e8a606bb39a30f8461",
+    "series_inventory": [
+      {
+        "itemid": "09d1a6dfea5c471b9e6dbacaec509c72",
+        "name": "Proportion of time spent on unpaid care work  by sex  age and location (percent) (SL_DOM_TSPDCW)"
+      },
+      {
+        "itemid": "09f817aae82043d982a8f7c0308d0024",
+        "name": "(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 1: Maternity Care (percent) (SH_L.."
+      },
+      {
+        "itemid": "0c5420dcea454e44a6b5a1be1cc61280",
+        "name": "(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 7: Emergency Contraception (perce.."
+      },
+      {
+        "itemid": "103599c83d5a4378b43c473f09545a30",
+        "name": "Proportion of elected seats held by women in deliberative bodies of local government (percent) (SG_GEN_LOCGELS)"
+      },
+      {
+        "itemid": "1065ee66e66a477788846a2c4b67df34",
+        "name": "Proportion of women who make their own informed decisions regarding sexual relations (percent of women aged 15-49 years) (SH_FPL_INFMSR)"
+      },
+      {
+        "itemid": "12b0609c3568462b8ffa2a0e6fde5e44",
+        "name": "Current number of seats in national parliaments (number) (SG_GEN_PARLNT)"
+      },
+      {
+        "itemid": "1a7378eec9024d8a85f1a7271338f0a7",
+        "name": "Proportion of time spent on unpaid domestic chores and care work  by sex  age and location (percent) (SL_DOM_TSPD)"
+      },
+      {
+        "itemid": "1bdbc2ad9a2f493195c58be84b0f925b",
+        "name": "Proportion of women in managerial positions (percent) (IC_GEN_MGTL)"
+      },
+      {
+        "itemid": "1fc59cf2719e4842a9724bb8b13aa623",
+        "name": "Degree to which the legal framework (including customary law) guarantees women\u2019s equal rights to land ownership and or control (1No evidence to 6Highest levels of guarantees) (SG_LGL_LNDFEMOD)"
+      },
+      {
+        "itemid": "21fb476406c94769b91e386194b25a84",
+        "name": "(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 13: HPV Vaccine (percent) (SH_LG.."
+      },
+      {
+        "itemid": "285ef5bd2f504f428ceb0f1087007a68",
+        "name": "Legal frameworks that promote  enforce and monitor gender equality (percentage of achievement  0 - 100) -- Area 1: overarching legal frameworks and public life (SG_LGL_GENEQLFP)"
+      },
+      {
+        "itemid": "2f095f89e6a046fc89e5ebc818f17406",
+        "name": "(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 10: HIV Counselling and Test Ser.."
+      },
+      {
+        "itemid": "37e8da43466c47f38f7c29a2f808cb70",
+        "name": "Proportion of seats held by women in national parliaments (percent of total number of seats) (SG_GEN_PARL)"
+      },
+      {
+        "itemid": "401eb2cb72df41c8ba60ce0a264ebff2",
+        "name": "(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Section 2: Contraceptive and Family Planning (p.."
+      },
+      {
+        "itemid": "468fbea184dd47d1b7f37d9d6ab8d9a5",
+        "name": "Proportion of women aged 20-24 years who were married or in a union before age 18 (percent) (SP_DYN_MRBF18)"
+      },
+      {
+        "itemid": "4ae97ca843054d90a984f9fbf39a35a8",
+        "name": "Number of seats held by women in national parliaments (number) (SG_GEN_PARLN)"
+      },
+      {
+        "itemid": "57c09c9129f2497f92e77c695196f033",
+        "name": "Share of women among owners or rights-bearers of agricultural land  by type of tenure (percent) (SP_GNP_WNOWNS)"
+      },
+      {
+        "itemid": "57f96ab657694a64862d37d5ace2d1e3",
+        "name": "Proportion of individuals who own a mobile telephone  by sex (percent) (IT_MOB_OWN)"
+      },
+      {
+        "itemid": "631b74fd56ba48b5b9be9b5e8d1ca759",
+        "name": "Proportion of women in senior and middle management positions (percent) (IC_GEN_MGTN)"
+      },
+      {
+        "itemid": "6427680e5bb446ed91c1a2c7b7934998",
+        "name": "Proportion of women aged 20-24 years who were married or in a union before age 15 (percent) (SP_DYN_MRBF15)"
+      },
+      {
+        "itemid": "6b20f312ebcd453b86955c78ad6dae35",
+        "name": "(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 3: Abortion (SH_LGR_ACSRHEC3)"
+      },
+      {
+        "itemid": "72dd345f7413418fb84bb83fba03d37d",
+        "name": "Proportion of women who make their own informed decisions regarding sexual relations  contraceptive use and reproductive health care (percent of women aged 15-49 years) (SH_FPL_INFM)"
+      },
+      {
+        "itemid": "760c0ad62f6943648df614bd49ffed68",
+        "name": "Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population)  by sex (percent) (SP_LGL_LNDAGSEC)"
+      },
+      {
+        "itemid": "863c568b04d44a8b8af3f08c9d38b9c4",
+        "name": "(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 11: HIV Treatment and Care Servi.."
+      },
+      {
+        "itemid": "918bda6d586c418cb504bbda2ccac068",
+        "name": "(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 5: Contraceptive Services (percen.."
+      },
+      {
+        "itemid": "91f9eb895978490abc0bf3f78ceb5b47",
+        "name": "(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Section 1: Maternity Care (percent) (SH_LGR_ACS.."
+      },
+      {
+        "itemid": "93fc580dd8764a6bb61f14effd935c7a",
+        "name": "(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 8: Sexuality Education Curriculum.."
+      },
+      {
+        "itemid": "991cf7bf88f04bc58086803318ed96b9",
+        "name": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (percent) (SG_GEN_EQPWN)"
+      },
+      {
+        "itemid": "999fa9cd59354f11b5d1fb9f91d63dbe",
+        "name": "Proportion of women who make their own informed decisions regarding contraceptive use (percent of women aged 15-49 years) (SH_FPL_INFMCU)"
+      },
+      {
+        "itemid": "9dc8184a5ac24335ad8a7500803a3347",
+        "name": "Legal frameworks that promote  enforce and monitor gender equality (percentage of achievement  0 - 100) -- Area 4: marriage and family (SG_LGL_GENEQMAR)"
+      },
+      {
+        "itemid": "a1ae1d63ee854ca9a4d35a724738912e",
+        "name": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation cutting  by age (percent) (SH_STA_FGMS)"
+      },
+      {
+        "itemid": "a73d8e2ca60045009e443019053b3a02",
+        "name": "(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 6: Contraceptive Consent (percent.."
+      },
+      {
+        "itemid": "b6aea91053ed4cb5a26360f91cf564d7",
+        "name": "Proportion of ever-partnered women and girls subjected to physical and or sexual violence by a current or former intimate partner in the previous 12 months  by age (percent) (VC_VAW_MARR)"
+      },
+      {
+        "itemid": "bf864bda3f3f42ea8e82054523c8822f",
+        "name": "Proportion of women who make their own informed decisions regarding reproductive health care (percent of women aged 15-49 years) (SH_FPL_INFMRH)"
+      },
+      {
+        "itemid": "c0583dbe29854ba6ae59a5453723ea6b",
+        "name": "(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 4: Post-Abortion Care (percent) (.."
+      },
+      {
+        "itemid": "c0f02a81ea7442959dfa906fa928be2f",
+        "name": "(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 2: Life Saving Commodities (perce.."
+      },
+      {
+        "itemid": "caaa1402799d424383d97ad0f25f1d88",
+        "name": "(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 12: HIV Confidentiality (percent.."
+      },
+      {
+        "itemid": "cc056284d96e43d09d8e30144b9e0023",
+        "name": "Legal frameworks that promote  enforce and monitor gender equality (percentage of achievement  0 - 100) --  Area 2: violence against women (SG_LGL_GENEQVAW)"
+      },
+      {
+        "itemid": "d7c2142d87714df4a1d8c5fd21b0ed7c",
+        "name": "Proportion of time spent on unpaid domestic chores  by sex  age and location (percent) (SL_DOM_TSPDDC)"
+      },
+      {
+        "itemid": "d81d16adad764b06bae8f504aff13415",
+        "name": "(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Section 3: Sexuality Education (percent) (SH_LG.."
+      },
+      {
+        "itemid": "de8638f316c441769554d93580115659",
+        "name": "(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Component 9: Sexuality Education Curriculum.."
+      },
+      {
+        "itemid": "dedbe4a5d1df4b60968c06a423414a04",
+        "name": "Legal frameworks that promote  enforce and monitor gender equality (percentage of achievement  0 - 100) -- Area 3: employment and economic benefits (SG_LGL_GENEQEMP)"
+      },
+      {
+        "itemid": "e6a238fac6924abbbf5211c56b5881ed",
+        "name": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education (percent) (SH_LGR_ACSRHE)"
+      },
+      {
+        "itemid": "f0d42b66687f441f95609da538a0918f",
+        "name": "(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care  information and education: Section 4: HIV and HPV (percent) (SH_LGR_ACSRHE.."
+      }
+    ]
+  },
+  {
+    "goal": "goal6",
+    "itemid": "9b015b830da4414793489f15f01e4b25",
+    "series_inventory": [
+      {
+        "itemid": "0320cec14c4041529a689f19415abc66",
+        "name": "Proportion of population practicing open defecation  by urban rural (percent) (SH_SAN_DEFECT)"
+      },
+      {
+        "itemid": "12014dfade374c6e9d5dd8e05c9be4ae",
+        "name": "Water body extent (permanent and maybe permanent) (percent of total land area) (EN_WBE_PMPP)"
+      },
+      {
+        "itemid": "133c6cf7b44643e69f460f10018c507a",
+        "name": "Nationally derived extent of wetlands (square kilometres) (EN_WBE_NDWTL)"
+      },
+      {
+        "itemid": "134eee790db945a88a7a3ec2e887969e",
+        "name": "Proportion of open water bodies with good ambient water quality (percent) (EN_H2O_OPAMBQ)"
+      },
+      {
+        "itemid": "18887224123d4dfa9dee0459f1ec053c",
+        "name": "Nationally derived quality of groundwater (percent) (EN_WBE_NDQLGRW)"
+      },
+      {
+        "itemid": "1913ab4c00914b34a3c8996595b9776c",
+        "name": "Proportion of river water bodies with good ambient water quality (percent) (EN_H2O_RVAMBQ)"
+      },
+      {
+        "itemid": "1a49d75c10564910888c989c932fa599",
+        "name": "Proportion of countries with clearly defined procedures in law or policy for participation by service users communities in planning program in rural drinking-water supply (percent) (ER_H2O_PROCED)"
+      },
+      {
+        "itemid": "1cf085c8141549b6afea5c7a1ffe9555",
+        "name": "Water body extent (permanent and maybe permanent) (square kilometres) (EN_WBE_PMPN)"
+      },
+      {
+        "itemid": "22daa8c722cb47daa53f0144f9e93f28",
+        "name": "Proportion of wastewater treated  by activity and location (percent) (EN_WWT_TREATR)"
+      },
+      {
+        "itemid": "2890c6a0856d4d289d9ad3d0f71ebd17",
+        "name": "Proportion of population with basic handwashing facilities on premises  by urban rural (percent) (SH_SAN_HNDWSH)"
+      },
+      {
+        "itemid": "30ce395ed0de42ecbf91cec4314d5c0f",
+        "name": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (percent) (ER_H2O_STRESS)"
+      },
+      {
+        "itemid": "3612d6f7133a44fdab2ab98eab642ca7",
+        "name": "Nationally derived quantity of rivers (million of cubic metres per annum) (EN_WBE_NDQTRVR)"
+      },
+      {
+        "itemid": "36406a04a7224d529e7a6b57945efd3a",
+        "name": "Proportion of population using safely managed drinking water services  by urban rural (percent) (SH_H2O_SAFE)"
+      },
+      {
+        "itemid": "397abbad24494c1ca7ef1386a2812a77",
+        "name": "Nationally derived quantity of open water bodies (million of cubic metres per annum) (EN_WBE_NDQTOPW)"
+      },
+      {
+        "itemid": "3d8b6088d16b475f8f123f6e793dbac6",
+        "name": "Total wastewater treated (million m3 year) (EN_WWT_TREAT)"
+      },
+      {
+        "itemid": "3eec99cb4237495fbdbda4893cdf1e19",
+        "name": "Total official development assistance (gross disbursement) for water supply and sanitation  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_WASHL)"
+      },
+      {
+        "itemid": "485949d7dadd478f8677504ec3082bb3",
+        "name": "Nationally derived quantity of groundwater (millions of cubic metres per annum) (EN_WBE_NDQTGRW)"
+      },
+      {
+        "itemid": "49a9849140f14654a55df644342a5bea",
+        "name": "Nationally derived total extent (square kilometres) (EN_WBE_NDETOT)"
+      },
+      {
+        "itemid": "5208a86c42c6400bb0a23f2830824572",
+        "name": "Water Use Efficiency (United States dollars per cubic meter) (ER_H2O_WUEYST)"
+      },
+      {
+        "itemid": "551c474ffb284363b159bfe77b781be9",
+        "name": "Water body extent (permanent) (percent of total land area) (EN_WBE_PMPR)"
+      },
+      {
+        "itemid": "56514fdfc47b405b8497da2cc5395818",
+        "name": "Proportion of population using safely managed sanitation services  by urban rural (percent) (SH_SAN_SAFE)"
+      },
+      {
+        "itemid": "5a7e5a3a2bfb475c894e6e9fba9d2dc4",
+        "name": "Extent of human made wetlands (square kilometres) (EN_WBE_HMWTL)"
+      },
+      {
+        "itemid": "5ba50b1c4f534d45aa59568c5606c0ec",
+        "name": "Nationally derived total quantity (millions of cubic metres per annum) (EN_WBE_NDQTTOT)"
+      },
+      {
+        "itemid": "600efa8bcb5f4ffd8e52905d02b6263a",
+        "name": "Countries with procedures in law or policy for participation by service users communities in planning program in rural drinking-water supply  by level of definition in procedures (10  Clearly defined; 5  Not clearly defined ; 0  NA) (ER_H2O_PRDU)"
+      },
+      {
+        "itemid": "61564d86b1ee49e48b6b0beaff6a5c44",
+        "name": "Proportion of groundwater bodies with good ambient water quality (percent) (EN_H2O_GRAMBQ)"
+      },
+      {
+        "itemid": "6334a6d7c07a48f790e3e03630e1f74e",
+        "name": "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (percent) (EG_TBA_H2CORL)"
+      },
+      {
+        "itemid": "67884f01a6b1474bb15095f396f2c90d",
+        "name": "Countries with users communities participating in planning programs in rural drinking-water supply  by level of participation (3  High; 2  Moderate; 1  Low; 0  NA) (ER_H2O_RURP)"
+      },
+      {
+        "itemid": "6fac97282fb74de389b8c1008cfdbc8d",
+        "name": "Proportion of countries by IWRM implementation category (percent) (ER_H2O_IWRMP)"
+      },
+      {
+        "itemid": "7e5b32ac2f074033b0a612dc9bebe5db",
+        "name": "Nationally derived proportion of water bodies with good quality (percent) (EN_WBE_NDQLTOT)"
+      },
+      {
+        "itemid": "7f26a75066614b5480e4115cce4d557d",
+        "name": "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (percent) (EG_TBA_H2CO)"
+      },
+      {
+        "itemid": "931b22b639ba4e48aae406f240e62f47",
+        "name": "Proportion of bodies of water with good ambient water quality (percent) (EN_H2O_WBAMBQ)"
+      },
+      {
+        "itemid": "997fc02dfe0443c3bbb8e72a8dea35c2",
+        "name": "Nationally derived quality of open water bodies(percent) (EN_WBE_NDQLOPW)"
+      },
+      {
+        "itemid": "9feaa920ba19459c8ba20400f7bd481c",
+        "name": "Proportion of countries with high level of users communities participating in planning programs in water resources planning and management (percent) (ER_WAT_PARTIC)"
+      },
+      {
+        "itemid": "a57022879aa940cd93d1819e4f97757e",
+        "name": "Proportion of transboundary aquifers with an operational arrangement for water cooperation (percent) (EG_TBA_H2COAQ)"
+      },
+      {
+        "itemid": "a5dccc45865744f5af03f53594342ef1",
+        "name": "Nationally derived extent of open water bodies (square kilometres) (EN_WBE_NDOPW)"
+      },
+      {
+        "itemid": "ac8e875fcf0c43c9b4531bcfaf49dbc9",
+        "name": "Proportion of countries with clearly defined procedures in law or policy for participation by service users communities in planning program in water resources planning and management (percent) (ER_WAT_PROCED)"
+      },
+      {
+        "itemid": "ad0e81a30420468691e7b7c3e6e7debd",
+        "name": "Nationally derived extend of rivers (square kilometres) (EN_WBE_NDRV)"
+      },
+      {
+        "itemid": "b38b2272330f414f92ae2e2c05bfb18a",
+        "name": "Proportion of safely treated domestic wastewater flows (percent) (EN_WWT_WWDS)"
+      },
+      {
+        "itemid": "bcfc08c33a91441fbf32a72031d64363",
+        "name": "Countries with procedures in law or policy for participation by service users communities in planning program in water resources planning and management  by level of definition in procedures (10  Clearly defined; 5  Not clearly defined ; 0  NA) (E.."
+      },
+      {
+        "itemid": "c848fdfb7bff40aa833e4bd1ab4111ce",
+        "name": "Total wastewater generated (million m3 year) (EN_WWT_GEN)"
+      },
+      {
+        "itemid": "ce069a289485468f9adff4ec74470e08",
+        "name": "Nationally derived quality of river(percent) (EN_WBE_NDQLRVR)"
+      },
+      {
+        "itemid": "d9553de58b9846b8acff2a48bab0b8bf",
+        "name": "Extent of inland wetlands (square kilometres) (EN_WBE_INWTL)"
+      },
+      {
+        "itemid": "db8ba2ff292e44168d5bc0c3934d14f6",
+        "name": "Degree of integrated water resources management implementation (percent) (ER_H2O_IWRMD)"
+      },
+      {
+        "itemid": "dc9a1f0635504217a686ae25182880e8",
+        "name": "Water body extent (permanent) (square kilometres) (EN_WBE_PMNR)"
+      },
+      {
+        "itemid": "e6a1e7abcc3946ac9fa6c7fcaaa2c170",
+        "name": "Proportion of countries with high level of users communities participating in planning programs in rural drinking-water supply (percent) (ER_H2O_PARTIC)"
+      },
+      {
+        "itemid": "efdb54ec304644ecb0414dbf7a8cd060",
+        "name": "Countries with users communities participating in planning programs in water resources planning and management  by level of participation (3  High; 2  Moderate; 1  Low; 0  NA) (ER_WAT_PART)"
+      }
+    ]
+  },
+  {
+    "goal": "goal7",
+    "itemid": "98246c9e94294cb5b320b051706bee47",
+    "series_inventory": [
+      {
+        "itemid": "365ffb6d47684888b82e2e4f57c14d1f",
+        "name": "International financial flows to developing countries in support of clean energy research and development and renewable energy production  including in hybrid systems (millions of constant United States dollars) (EG_IFF_RANDN)"
+      },
+      {
+        "itemid": "5ae1678b14664c0e9f8eef6bde6fdce1",
+        "name": "Installed renewable\u00a0electricity-generating capacity (watts per capita) (EG_EGY_RNEW)"
+      },
+      {
+        "itemid": "68069739f3754ed2bdc39c4d9814fb75",
+        "name": "Proportion of population with primary reliance on clean fuels and technology (percent) (EG_EGY_CLEAN)"
+      },
+      {
+        "itemid": "cadf56c16bdb4c33b15bd5bd47254e57",
+        "name": "Energy intensity level of primary energy (megajoules per constant 2011 purchasing power parity GDP) (EG_EGY_PRIM)"
+      },
+      {
+        "itemid": "cee607eb2f074df78e22ca1882a512d4",
+        "name": "Renewable energy share in the total final energy consumption (percent) (EG_FEC_RNEW)"
+      },
+      {
+        "itemid": "d2c33c76b0af49659ef627b20725119c",
+        "name": "Proportion of population with access to electricity  by urban rural (percent) (EG_ACS_ELEC)"
+      }
+    ]
+  },
+  {
+    "goal": "goal8",
+    "itemid": "7fadc635057f4d90882c87a1e1a68d62",
+    "series_inventory": [
+      {
+        "itemid": "0199c42d16a141e485155e83a1315d63",
+        "name": "Total official flows (commitments) for Aid for Trade  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_TRDCML)"
+      },
+      {
+        "itemid": "1ae6e560a374489abc9134ae4a590818",
+        "name": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation (SL_LBR_NTLCPL)"
+      },
+      {
+        "itemid": "28f02694d5e547db97d66d82d94d0a9d",
+        "name": "Annual growth rate of real GDP per capita (percent) (NY_GDP_PCAP)"
+      },
+      {
+        "itemid": "2d94986be5504582b783140012f8624d",
+        "name": "Number of automated teller machines (ATMs) per 100 000 adults (FB_ATM_TOTL)"
+      },
+      {
+        "itemid": "31d8a7f4b1204b29acf99ea94b161c63",
+        "name": "Material footprint per unit of GDP  by type of raw material (kilograms per constant 2010 United States dollar) (EN_MAT_FTPRPG)"
+      },
+      {
+        "itemid": "4745ff6675cd4445afe9d28296ed004e",
+        "name": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider  by sex (percent of adults aged 15 years and older) (FB_BNK_ACCSS)"
+      },
+      {
+        "itemid": "5098fb217107468a9306bfd285882fc1",
+        "name": "Proportion of informal employment  by sector and sex (ILO harmonized estimates) (percent) (SL_ISV_IFEM)"
+      },
+      {
+        "itemid": "69e87c50556c4fe8b68cfddc1e6aa7c2",
+        "name": "Annual growth rate of real GDP per employed person (percent) (SL_EMP_PCAP)"
+      },
+      {
+        "itemid": "6c4862bfa32746a08531612183de276a",
+        "name": "Total official flows (commitments) for Aid for Trade  by donor countries (millions of constant 2018 United States dollars) (DC_TOF_TRDCMDL)"
+      },
+      {
+        "itemid": "6f342a61759241cbb393b29bef48abf2",
+        "name": "Proportion of youth not in education  employment or training  by sex and age (percent) (SL_TLF_NEET)"
+      },
+      {
+        "itemid": "9003956b4d594fb6b755cd91d6158831",
+        "name": "Proportion of children engaged in economic activity  by sex and age  (percent) (SL_TLF_CHLDEA)"
+      },
+      {
+        "itemid": "91643a99e8814ef6ab163cd85e472ba2",
+        "name": "Domestic material consumption per capita  by type of raw material (tonnes) (EN_MAT_DOMCMPC)"
+      },
+      {
+        "itemid": "9b39ca007b1e41529a831424bc7fd339",
+        "name": "Domestic material consumption  by type of raw material (tonnes) (EN_MAT_DOMCMPT)"
+      },
+      {
+        "itemid": "a40b03df901047e38502658d8086e30c",
+        "name": "Fatal occupational injuries among employees  by sex and migrant status (per 100 000 employees) (SL_EMP_FTLINJUR)"
+      },
+      {
+        "itemid": "a4e81fbfbb9645f89713b87b3c6541db",
+        "name": "Domestic material consumption per unit of GDP  by type of raw material (kilograms per constant 2010 United States dollars) (EN_MAT_DOMCMPG)"
+      },
+      {
+        "itemid": "af4397b5ca1c428b88bc5600e2dccd59",
+        "name": "Tourism direct GDP as a proportion of total GDP (percent) (ST_GDP_ZS)"
+      },
+      {
+        "itemid": "b0459255ade4472e9c348b97ddfb2974",
+        "name": "Unemployment rate  by sex and age (percent) (SL_TLF_UEM)"
+      },
+      {
+        "itemid": "c023bb925f144dc7a0b6dd5a1588d1cd",
+        "name": "Material footprint  by type of raw material (tonnes) (EN_MAT_FTPRTN)"
+      },
+      {
+        "itemid": "c791814a6acd464e9da10f1245eb7749",
+        "name": "Total official flows (disbursement) for Aid for Trade  by donor countries (millions of constant 2018 United States dollars) (DC_TOF_TRDDBMDL)"
+      },
+      {
+        "itemid": "cb7eafcae2164a48a70a9e457b5facde",
+        "name": "Proportion of children engaged in economic activity and household chores  by sex and age (percent) (SL_TLF_CHLDEC)"
+      },
+      {
+        "itemid": "d2e0dde167584568b9e34ba8c9138269",
+        "name": "Non-fatal occupational injuries among employees  by sex and migrant status (per 100 000 employees) (SL_EMP_INJUR)"
+      },
+      {
+        "itemid": "d5f70540e1bb4e3f88f1d35663431282",
+        "name": "Number of commercial bank branches per 100 000 adults (FB_CBK_BRCH)"
+      },
+      {
+        "itemid": "dceaef5d6b944e8d86402cb5dbc3a05d",
+        "name": "Average hourly earnings of employees by sex and occupation (local currency) (SL_EMP_EARN)"
+      },
+      {
+        "itemid": "e563ad1abda84ed3bcd5f9c2242ed66a",
+        "name": "Existence of a developed and operationalized national strategy for youth employment  as a distinct strategy or as part of a national employment strategy (SL_CPA_YEMP)"
+      },
+      {
+        "itemid": "e674e08e79074e9b92685fedf869958e",
+        "name": "Unemployment rate  by sex and disability (percent) (SL_TLF_UEMDIS)"
+      },
+      {
+        "itemid": "ec7bb3e34e574e35bc4e75c51e4c5aab",
+        "name": "Total official flows (disbursement) for Aid for Trade  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_TRDDBML)"
+      },
+      {
+        "itemid": "f72131bc187145229ca009c464d5bea9",
+        "name": "Material footprint per capita  by type of raw material (tonnes) (EN_MAT_FTPRPC)"
+      }
+    ]
+  },
+  {
+    "goal": "goal9",
+    "itemid": "46c8837b31304bc688c554067a9e5317",
+    "series_inventory": [
+      {
+        "itemid": "102a98d6b62e4301a8b8bf0ab7addb80",
+        "name": "Carbon dioxide emissions from fuel combustion (millions of tonnes) (EN_ATM_CO2)"
+      },
+      {
+        "itemid": "1283cfefe4e94f32bbdca502756e7428",
+        "name": "Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars) (EN_ATM_CO2GDP)"
+      },
+      {
+        "itemid": "188450ce93444e6489d1c49597643fea",
+        "name": "Proportion of the rural population who live within 2\u00a0km of an all-season road (SP_ROD_R2KM)"
+      },
+      {
+        "itemid": "225ad60828544e11a489637fa29606d1",
+        "name": "Researchers (in full-time equivalent) per million inhabitants (per 1 000 000 population) (GB_POP_SCIERD)"
+      },
+      {
+        "itemid": "2f2b5a32ad5f4e0089069989198a5f4c",
+        "name": "Manufacturing employment as a proportion of total employment (percent) (SL_TLF_MANF)"
+      },
+      {
+        "itemid": "2f74f06faba14c02b31ba243d3c67a40",
+        "name": "Freight loaded and unloaded  maritime transport (metric tons) (IS_RDP_LULFRG)"
+      },
+      {
+        "itemid": "42b295a3d7bb4763aa02335c754abc15",
+        "name": "Research and development expenditure as a proportion of GDP (percent) (GB_XPD_RSDV)"
+      },
+      {
+        "itemid": "4dbe2a72c6bd4e819cee98830f91acce",
+        "name": "Manufacturing value added per capita (constant 2015 United States dollars) (NV_IND_MANFPC)"
+      },
+      {
+        "itemid": "507d880a86884f45ba9a3fec39c90b30",
+        "name": "Freight volume  by mode of transport (tonne kilometres) (IS_RDP_FRGVOL)"
+      },
+      {
+        "itemid": "5432e7576a4644b28c48130941ac556d",
+        "name": "Proportion of small-scale industries in total industry value added (percent) (NV_IND_SSIS)"
+      },
+      {
+        "itemid": "558ee621bb4e428c9ed31992adfcb3f1",
+        "name": "Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (percent) (NV_IND_MANF)"
+      },
+      {
+        "itemid": "64b67a69a828493c9870d6e05bbb527e",
+        "name": "Total official flows for infrastructure  by recipient countries (millions of constant 2018 United States dollars) (DC_TOF_INFRAL)"
+      },
+      {
+        "itemid": "6ed445f10c6f481489914d740f33e2ca",
+        "name": "Proportion of population covered by at least a 4G mobile network (percent) (IT_MOB_4GNTWK)"
+      },
+      {
+        "itemid": "860aeb5633974485a743f18947e647fc",
+        "name": "Manufacturing value added (current United States dollars) as a proportion of GDP (percent) (NV_IND_MANF_CD)"
+      },
+      {
+        "itemid": "89d45389dd1a4a23b06d961decf715a5",
+        "name": "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars) (EN_ATM_CO2MVA)"
+      },
+      {
+        "itemid": "907b2672cb594ad68a7f564ba91dcecc",
+        "name": "Proportion of medium and high-tech industry value added in total value added (percent) (NV_IND_TECH)"
+      },
+      {
+        "itemid": "aba88a8729cf4ea3b31c6379ac73874c",
+        "name": "Passenger volume (passenger kilometres)  by mode of transport (IS_RDP_PFVOL)"
+      },
+      {
+        "itemid": "d1fb38865bf048f183e21e361d7f8955",
+        "name": "Proportion of population covered by at least a 2G mobile network (percent) (IT_MOB_2GNTWK)"
+      },
+      {
+        "itemid": "e37ada46f1564e96a9d993b3baa04498",
+        "name": "Proportion of small-scale industries with a loan or line of credit (percent) (FC_ACC_SSID)"
+      },
+      {
+        "itemid": "e4d408a4f38b43439470fe13e41e46be",
+        "name": "Proportion of population covered by at least a 3G mobile network (percent) (IT_MOB_3GNTWK)"
+      },
+      {
+        "itemid": "e7af48256fd34953bcd3626bdd7e6761",
+        "name": "Container port traffic  maritime transport (twenty-foot equivalent units - TEUs) (IS_RDP_PORFVOL)"
+      }
+    ]
+  },
+  {
+    "goal": "goal10",
+    "itemid": "dca53d8151174327a26bcd033387b3f4",
+    "series_inventory": [
+      {
+        "itemid": "01dcccaaade3449ca819d75b2228900a",
+        "name": "Proportion of members of developing countries in international organizations  by organization (percent) (SG_INT_MBRDEV)"
+      },
+      {
+        "itemid": "0464a45d2b0d477690a260baa5a3fb5a",
+        "name": "Non-performing loans net of provisions to capital (percent) (FI_FSI_FSKNL)"
+      },
+      {
+        "itemid": "178e79ead9f74c71a437cd2fe3c80f69",
+        "name": "Total assistance for development  by donor countries (millions of current United States dollars) (DC_TRF_TOTDL)"
+      },
+      {
+        "itemid": "19024d4bf2ca4497942a6317c7c7a0e4",
+        "name": "Proportion of countries with migration policies to facilitate orderly  safe  regular and responsible migration and mobility of people  by policy domain (percent) (SG_CPA_MIGRP)"
+      },
+      {
+        "itemid": "1e6c0d5b8f9b4eafa5d74f9841f6f8c6",
+        "name": "Regulatory Tier 1 capital to risk-weighted assets (percent) (FI_FSI_FSKRTC)"
+      },
+      {
+        "itemid": "30cf1cbc06894d31aab91bc25ab47d45",
+        "name": "Number of refugees per 100 000 population  by country of origin (per 100 000 population) (SM_POP_REFG_OR)"
+      },
+      {
+        "itemid": "36b479f9be664f4593fb9f2b8ee938b1",
+        "name": "Total deaths and disappearances recorded during migration (number) (SM_DTH_MIGR)"
+      },
+      {
+        "itemid": "4398f87e7e704912aee69adf08d60c86",
+        "name": "Total assistance for development  by recipient countries (millions of current United States dollars) (DC_TRF_TOTL)"
+      },
+      {
+        "itemid": "5ad08df7532d41ae89a7ca0816539be7",
+        "name": "Corridor remittance costs as a proportion of the amount remitted (percent) (SI_RMT_COST_BC)"
+      },
+      {
+        "itemid": "7d49bf2a3d4747d580dcba4be75dae03",
+        "name": "SmaRT corridor remittance costs as a proportion of the amount remitted (percent) (SI_RMT_COST_SC)"
+      },
+      {
+        "itemid": "808239e37f874c20b29321d9757e9546",
+        "name": "Remittance costs as a proportion of the amount remitted (percent) (SI_RMT_COST)"
+      },
+      {
+        "itemid": "82de380671004074a62d218346b76cf8",
+        "name": "Redistributive impact of fiscal policy  Gini index (percent) (SI_DST_FISP)"
+      },
+      {
+        "itemid": "aa328102267444428cd6e49bd64c56cc",
+        "name": "Proportion of voting rights of developing countries in international organizations  by organization (percent) (SG_INT_VRTDEV)"
+      },
+      {
+        "itemid": "af38a959e11f48bb8c2c95bb632c218b",
+        "name": "Non-performing loans to total gross loans (percent) (FI_FSI_FSANL)"
+      },
+      {
+        "itemid": "c02bae67b5c042da98be9bf6e884fcd4",
+        "name": "Labour share of GDP (percent) (SL_EMP_GTOTL)"
+      },
+      {
+        "itemid": "c236c9895f8f45f38a887817b97a6b3a",
+        "name": "Regulatory capital to assets (percent) (FI_FSI_FSKA)"
+      },
+      {
+        "itemid": "c4d5bfbbd66c4486826527a385e7f43b",
+        "name": "Proportion of tariff lines applied to imports with zero-tariff (percent) (TM_TRF_ZERO)"
+      },
+      {
+        "itemid": "c95252af7a634d3cbc54003892485431",
+        "name": "Net open position in foreign exchange to capital (percent) (FI_FSI_FSSNO)"
+      },
+      {
+        "itemid": "cb5aeb3d4aba4dd8a4a6cc3a56604247",
+        "name": "Countries with migration policies to facilitate orderly  safe  regular and responsible migration and mobility of people  by policy domain (1  Requires further progress; 2  Partially meets; 3  Meets; 4  Fully meets) (SG_CPA_MIGRS)"
+      },
+      {
+        "itemid": "d070054b5c6b44f8964163e3fb1da512",
+        "name": "Proportion of population reporting having felt discriminated against  by grounds of discrimination  sex and disability (percent) (VC_VOV_GDSD)"
+      },
+      {
+        "itemid": "e8eeb2d3b1004451b12b5f5759fe48fb",
+        "name": "Return on assets (percent) (FI_FSI_FSERA)"
+      },
+      {
+        "itemid": "ec002d33395144cf9370323a8b173f68",
+        "name": "Growth rates of household expenditure or income per capita (percent) (SI_HEI_TOTL)"
+      },
+      {
+        "itemid": "ec3cabf57b5c48f28c9a218f3cc2107b",
+        "name": "Proportion of people living below 50 percent of median income (percent) (SI_POV_50MI)"
+      },
+      {
+        "itemid": "edf093a8b76643d78dfaea50bd910fe0",
+        "name": "Liquid assets to short term liabilities (percent) (FI_FSI_FSLS)"
+      },
+      {
+        "itemid": "f39a5b51fbe341c3bb103d6148e5f043",
+        "name": "Total resource flows for development  by recipient and donor countries (millions of current United States dollars) (DC_TRF_TFDV)"
+      }
+    ]
+  },
+  {
+    "goal": "goal11",
+    "itemid": "f1a6c210c87340c79b88c730d0676284",
+    "series_inventory": [
+      {
+        "itemid": "0071e7ee4653400e8f6d452371632778",
+        "name": "Number of disruptions to educational services attributed to disasters (number) (VC_DSR_ESDN)"
+      },
+      {
+        "itemid": "053f50bff6424c9d979d34956dca0114",
+        "name": "Number of people affected by disaster (number) (VC_DSR_AFFCT)"
+      },
+      {
+        "itemid": "075844f4bc11460b855a2a121303ea43",
+        "name": "Number of disruptions to other basic services attributed to disasters (number) (VC_DSR_OBDN)"
+      },
+      {
+        "itemid": "0b034bcdfd70493aa540d1a3a35abd94",
+        "name": "Number of people whose damaged dwellings were attributed to disasters (number) (VC_DSR_PDAN)"
+      },
+      {
+        "itemid": "14012dcb3dfe4887926823e78655ddb1",
+        "name": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (percent) (SG_DSR_SILS)"
+      },
+      {
+        "itemid": "1c18151032c74ab38d88d68551e33833",
+        "name": "Annual mean levels of fine particulate matter in cities  urban population (micrograms per cubic meter) (EN_ATM_PM25)"
+      },
+      {
+        "itemid": "2743a43e09084946b5bdda4e501075dd",
+        "name": "Proportion of urban population living in slums (percent) (EN_LND_SLUM)"
+      },
+      {
+        "itemid": "325ced7f9d0f4235837f46fdcfb14951",
+        "name": "Number of damaged critical infrastructure attributed to disasters (number) (VC_DSR_CDAN)"
+      },
+      {
+        "itemid": "33dfddcab743447db0e612175b15931b",
+        "name": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars) (VC_DSR_CILN)"
+      },
+      {
+        "itemid": "3801d75299f94212ab020b79f717072b",
+        "name": "Direct economic loss attributed to disasters relative to GDP (percent) (VC_DSR_LSGP)"
+      },
+      {
+        "itemid": "3c6091809b9a439ca5008ddf648f06db",
+        "name": "Number of injured or ill people attributed to disasters (number) (VC_DSR_IJILN)"
+      },
+      {
+        "itemid": "443e5e2a17ea4dc988da1d75d64f3a0b",
+        "name": "Number of deaths due to disaster (number) (VC_DSR_MORT)"
+      },
+      {
+        "itemid": "473e2e2cddf842f59e50baa12e469ad9",
+        "name": "Number of destroyed or damaged health facilities attributed to disasters (number) (VC_DSR_HFDN)"
+      },
+      {
+        "itemid": "49c50dab2e8c47cea86f29feb305aa52",
+        "name": "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1  YES; 0  NO) (SD_CPA_UPRDP)"
+      },
+      {
+        "itemid": "59ef97c5f69047ff8ef2a23300160306",
+        "name": "Number of deaths and missing persons attributed to disasters per 100 000 population (number) (VC_DSR_MTMP)"
+      },
+      {
+        "itemid": "5ccc206472834908b90d4c90f69e05b4",
+        "name": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars) (VC_DSR_CHLN)"
+      },
+      {
+        "itemid": "5d93a4b2dd32421f8fab6f7034096b9b",
+        "name": "Number of people whose livelihoods were disrupted or destroyed  attributed to disasters (number) (VC_DSR_PDLN)"
+      },
+      {
+        "itemid": "6a2beb5cd531409fba3a5dc20ebdc8a5",
+        "name": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars) (VC_DSR_DDPA)"
+      },
+      {
+        "itemid": "71750100448f4e92921fa91a3485886f",
+        "name": "Number of local governments (number) (SG_GOV_LOGV)"
+      },
+      {
+        "itemid": "77fff4d7e5b84ea894d08296a133d3fe",
+        "name": "Direct agriculture loss attributed to disasters (current United States dollars) (VC_DSR_AGLH)"
+      },
+      {
+        "itemid": "7ba120fa64b842ae876f31c6f4c26df7",
+        "name": "Number of directly affected persons attributed to disasters per 100 000 population (number) (VC_DSR_DAFF)"
+      },
+      {
+        "itemid": "812df04218a541c788dc34220f9caab5",
+        "name": "Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework (SG_DSR_SFDRR)"
+      },
+      {
+        "itemid": "882ca97a19e04f5abacd7d46262d03cb",
+        "name": "Number of destroyed or damaged educational facilities attributed to disasters (number) (VC_DSR_EFDN)"
+      },
+      {
+        "itemid": "8d274b113c2f45a3ad310db40c4a2fd9",
+        "name": "Number of people whose destroyed dwellings were attributed to disasters (number) (VC_DSR_PDYN)"
+      },
+      {
+        "itemid": "8e9fb2ef90f147f4a4c9d5003ed9d3bb",
+        "name": "Direct economic loss in the housing sector attributed to disasters (current United States dollars) (VC_DSR_HOLH)"
+      },
+      {
+        "itemid": "8ec77cb64dee4b64b8bdd10418e47cb4",
+        "name": "Number of disruptions to health services attributed to disasters (number) (VC_DSR_HSDN)"
+      },
+      {
+        "itemid": "941e32300def439aa44978ca358c19ba",
+        "name": "Municipal Solid Waste collection coverage  by cities (percent) (EN_REF_WASCOL)"
+      },
+      {
+        "itemid": "9ccf7a563f334a2a93b587c06ef5174a",
+        "name": "Number of deaths and missing persons attributed to disasters (number) (VC_DSR_MMHN)"
+      },
+      {
+        "itemid": "b2dcaace506f4df0acfa1c84b2923582",
+        "name": "Number of missing persons due to disaster (number) (VC_DSR_MISS)"
+      },
+      {
+        "itemid": "cdc9451787d2482ab46350dfef76a0eb",
+        "name": "Direct economic loss attributed to disasters (current United States dollars) (VC_DSR_GDPLS)"
+      },
+      {
+        "itemid": "df38a6efd8f5489497bc33d5cc1e0862",
+        "name": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number) (SG_DSR_SILN)"
+      },
+      {
+        "itemid": "e2942b5c391e40069301ca5226f75236",
+        "name": "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number) (VC_DSR_CDYN)"
+      },
+      {
+        "itemid": "ee1212d090c44e9093c00e2fb14aad1b",
+        "name": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework (SG_DSR_LGRGSR)"
+      },
+      {
+        "itemid": "f4b1acbcae1e4176885c2d96f632a9bc",
+        "name": "Number of disruptions to basic services attributed to disasters (number) (VC_DSR_BSDN)"
+      }
+    ]
+  },
+  {
+    "goal": "goal12",
+    "itemid": "71b8565efcf5467c9fa98ddb3c0fb2f3",
+    "series_inventory": [
+      {
+        "itemid": "00daad2cb3f74a5e8daac509c67b6f28",
+        "name": "Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste  and other chemicals (SG_HAZ_CMRROTDAM)"
+      },
+      {
+        "itemid": "0bc3bde4794d4c029312e36985a2959a",
+        "name": "Electronic waste generated (Tonnes) (EN_EWT_GENV)"
+      },
+      {
+        "itemid": "11663c79b9114a42a2ae046a95e36a97",
+        "name": "Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste  and other chemicals (percent) (SG_HAZ_CMRMNMT)"
+      },
+      {
+        "itemid": "144c49f1ccbc4aa891cd87546a5c7e2a",
+        "name": "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1  YES; 0  NO) (SG_SCP_CNTRY)"
+      },
+      {
+        "itemid": "168751573ea946318d58947f9b4db0a1",
+        "name": "Electronic waste collected  per capita (KG) (EN_EWT_COLLPCAP)"
+      },
+      {
+        "itemid": "2b0ac51f38d74cdb858d8c5455e26593",
+        "name": "Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars) (ER_FFS_CMPT_PC)"
+      },
+      {
+        "itemid": "315155ade8ea4204b675f638a5840119",
+        "name": "Municipal waste generated (Tonnes) (EN_MWT_GENV)"
+      },
+      {
+        "itemid": "32cb3fb2abfe4959838016035957e706",
+        "name": "Countries with coordination mechanism for sustainable consumption and production (1  YES; 0  NO) (SG_SCP_CORMEC)"
+      },
+      {
+        "itemid": "427e55a2c5dd4f4f9cfee1ba5ecef049",
+        "name": "Municipal waste collected (Tonnes) (EN_MWT_COLLV)"
+      },
+      {
+        "itemid": "4ebf134109ba439096bca1d675af2a7a",
+        "name": "Municipal waste recycled (Tonnes) (EN_MWT_RCYV)"
+      },
+      {
+        "itemid": "5fc3223ad5d64b4288d790d75e24f0b6",
+        "name": "Countries with policy instrument for sustainable consumption and production (1  YES; 0  NO) (SG_SCP_POLINS)"
+      },
+      {
+        "itemid": "711d23dc15ec4b99b5298a36dab15d6c",
+        "name": "Country with Other implementing activities for sustainable consumption and production (1  YES; 0  NO) (SG_SCP_OTHER)"
+      },
+      {
+        "itemid": "761bc0a5499b4c4a90c2f47f9c1c912e",
+        "name": "Electronic waste recycling (Tonnes) (EN_EWT_RCYV)"
+      },
+      {
+        "itemid": "7b56a877eb594ff796a8fab8e607e22e",
+        "name": "Electronic waste generated  per capita (Kg) (EN_EWT_GENPCAP)"
+      },
+      {
+        "itemid": "7d8a87a251154468b4de39a3f67a71f1",
+        "name": "Countries with policies  instruments and mechanism in place for sustainable consumption and production (1  YES; 0  NO) (SG_SCP_TOTL)"
+      },
+      {
+        "itemid": "80c1f5f134e74b7191cb89ac5b2ec15b",
+        "name": "Electronic waste collection rate (percent) (EN_EWT_COLLR)"
+      },
+      {
+        "itemid": "837f578a69dc4ad6853c81c1cc88e6fb",
+        "name": "Hazardous waste treated  by type of treatment (Tonnes) (EN_HAZ_TREATV)"
+      },
+      {
+        "itemid": "8678dda21d0c4b369d882034810177fe",
+        "name": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) (ST_EEV_ACCTSA)"
+      },
+      {
+        "itemid": "8ae41fa0d08e4cc891d5d592eb199220",
+        "name": "Hazardous waste generated (Tonnes) (EN_HAZ_GENV)"
+      },
+      {
+        "itemid": "9014c1a87ce140ada5b385c5765afe6d",
+        "name": "Hazardous waste generated  per capita (Kg) (EN_HAZ_PCAP)"
+      },
+      {
+        "itemid": "aa27ffef1c6e4f028adbc7404fa447d5",
+        "name": "Electronic waste collected (Tonnes) (EN_EWT_COLLV)"
+      },
+      {
+        "itemid": "b3859d043b8a4e0bb7ed4f17b7816ac3",
+        "name": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) (ST_EEV_ACCSEEA)"
+      },
+      {
+        "itemid": "b68dbfb40f3d45a49147d36d2a00c43f",
+        "name": "Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste  and other chemicals (SG_HAZ_CMRMNTRL)"
+      },
+      {
+        "itemid": "b6a4637596bc47ecba43956514fe80f7",
+        "name": "Food waste per capita (KG) (AG_FOOD_WST_PC)"
+      },
+      {
+        "itemid": "b6b2de6d7a4b462c98976400c2631b56",
+        "name": "Food loss percentage (percent) (AG_FLS_IDX)"
+      },
+      {
+        "itemid": "bb40a1ab396c479ea3f97f563c1bbae4",
+        "name": "Number of companies publishing sustainability reports with disclosure by dimension  by level of requirement (Number) (EN_SCP_FRMN)"
+      },
+      {
+        "itemid": "c21a6b58f76c4797800e8cb5f4dfaef9",
+        "name": "Electronic waste recycling  per capita (Kg) (EN_EWT_RCYPCAP)"
+      },
+      {
+        "itemid": "c71f32b3451a43e0a29f4ae94f8d7365",
+        "name": "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (percent) (ER_FFS_CMPT_GDP)"
+      },
+      {
+        "itemid": "c88d38e6247a4a08849344d61e1d2737",
+        "name": "Hazardous waste generated  per unit of GDP (kilograms per constant 2015 United States dollars) (EN_HAZ_GENGDP)"
+      },
+      {
+        "itemid": "d65afbe1a566471dbd590ef1803585d3",
+        "name": "Installed renewable\u00a0electricity-generating capacity (watts per capita) (EG_EGY_RNEW)"
+      },
+      {
+        "itemid": "dbd74a133cab49789debfafac768a051",
+        "name": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste  and other chemicals (SG_HAZ_CMRBASEL)"
+      },
+      {
+        "itemid": "de6de0f148044792bdb4fa14beec3178",
+        "name": "Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars) (ER_FFS_CMPT)"
+      },
+      {
+        "itemid": "de7f448e684a48ed8072d62d514c2392",
+        "name": "Food waste (Tonnes) (AG_FOOD_WST)"
+      },
+      {
+        "itemid": "e19de536dc404762b7a711e86b0b878e",
+        "name": "Electronic waste recycling  rate (percent) (EN_EWT_RCYR)"
+      },
+      {
+        "itemid": "e55fde41757e49e5a2bd7859613d3e73",
+        "name": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables) (ST_EEV_STDACCT)"
+      },
+      {
+        "itemid": "f3981e6026cf4654be69719a8a53d6f5",
+        "name": "Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste  and other chemicals (SG_HAZ_CMRSTHOLM)"
+      },
+      {
+        "itemid": "f55367abaacb416a82037dd80bb095f3",
+        "name": "Municipal waste treated  by type of treatment (percent) (EN_MWT_TREATR)"
+      },
+      {
+        "itemid": "f786fe348e464eda9e8c10b09e331e7f",
+        "name": "Hazardous waste treated or disposed (Tonnes) (EN_HAZ_TRTDISV)"
+      },
+      {
+        "itemid": "fbe74fc5d79e42ecb3021011803e01bc",
+        "name": "Hazardous waste treated or disposed  rate (percent) (EN_HAZ_TRTDISR)"
+      }
+    ]
+  },
+  {
+    "goal": "goal13",
+    "itemid": "d074488284214a5d8be0c0f0b65d1809",
+    "series_inventory": [
+      {
+        "itemid": "00f649854f644db5a40c9f4d069141be",
+        "name": "Total financial support provided (Billions of current United States dollars) (DC_FIN_TOT)"
+      },
+      {
+        "itemid": "02019e6729f8436eb41ba8c682b93f2e",
+        "name": "Climate-specific financial support provided via multilateral channels  by type of support (Billions of current United States dollars) (DC_FIN_CLIMM)"
+      },
+      {
+        "itemid": "22f3ab9b4f12417e95005747751e3244",
+        "name": "Total climate-specific financial support provided (Billions of current United States dollars) (DC_FIN_CLIMT)"
+      },
+      {
+        "itemid": "26467c5ac3cc41eb96d197c326b3e956",
+        "name": "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO\u2082 equivalent) (EN_ATM_GHGT_NAIP)"
+      },
+      {
+        "itemid": "3fcfb6c5edc449f98702c68902e612ff",
+        "name": "Number of countries with national communications  Annex I Parties (Number) (EN_NACOM_AIP)"
+      },
+      {
+        "itemid": "4114f19e1de84921baee0f037ef50b21",
+        "name": "Number of countries with national adaptation plans (Number) (EN_NAA_PLAN)"
+      },
+      {
+        "itemid": "78597cdb91d7429bbd1120ed6d9fc54c",
+        "name": "Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO\u2082 equivalent) (EN_ATM_GHGT_AIP)"
+      },
+      {
+        "itemid": "7b7ea74113f5474583cdf6cf530a12ca",
+        "name": "Climate-specific financial support provided via bilateral  regional and other channels  by type of support (Billions of current United States dollars) (DC_FIN_CLIMB)"
+      },
+      {
+        "itemid": "9401c3692ae44fc0ae779d7d484b7d29",
+        "name": "Number of countries with adaptation communications (Number) (EN_ADAP_COM)"
+      },
+      {
+        "itemid": "96c5f5e04c304984a6eabb21ebebd9c3",
+        "name": "Number of countries with biennial update reports  non-Annex I Parties (Number) (EN_BIUREP_NAIP)"
+      },
+      {
+        "itemid": "c2a2dea7fc7f40f089b4455210883009",
+        "name": "Number of countries with biennial reports  Annex I Parties (Number) (EN_BIUREP_AIP)"
+      },
+      {
+        "itemid": "da483574280c4a3f845b25bc12320fc8",
+        "name": "Number of countries with nationally determined contributions (Number) (EN_NAD_CONTR)"
+      },
+      {
+        "itemid": "e16163bc30ac47b6bfb05ea6a992f6b8",
+        "name": "Number of countries with national communications  non-Annex I Parties (Number) (EN_NACOM_NAIP)"
+      },
+      {
+        "itemid": "e6aca1da6c6942739000626a00276f4c",
+        "name": "Core general contributions provided to multilateral institutions (Billions of current United States dollars) (DC_FIN_GEN)"
+      }
+    ]
+  },
+  {
+    "goal": "goal14",
+    "itemid": "35dc2d17bc4f4df4aab57f86345ccad8",
+    "series_inventory": [
+      {
+        "itemid": "04f112687ab54997bd28d447afb91df7",
+        "name": "National ocean science expenditure as a share of total research and development funding (percent) (ER_RDE_OSEX)"
+      },
+      {
+        "itemid": "2a9a5da5783a4b89a816d43584dbb588",
+        "name": "Beach litter per square kilometer (Number) (EN_MAR_BEALITSQ)"
+      },
+      {
+        "itemid": "4136fc73aa2e4ee28d7ef474feb12162",
+        "name": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (percent) (ER_MRN_MARIN)"
+      },
+      {
+        "itemid": "47fd0e6bb38e46fa830e5295c6a1a9da",
+        "name": "Average marine acidity (pH) measured at agreed suite of representative sampling stations (ER_OAW_MNACD)"
+      },
+      {
+        "itemid": "4a9b500707b546fface9df9c00d6e131",
+        "name": "Score for the ratification of and accession to UNCLOS and its two implementing agreements (percent) (ER_UNCLOS_RATACC)"
+      },
+      {
+        "itemid": "5c38a4d0277a4b1c9615c88f1bc688d6",
+        "name": "Chlorophyll-a anomaly  remote sensing (percent) (EN_MAR_CHLANM)"
+      },
+      {
+        "itemid": "72fce10c7b994a89a7f66fdf6881a16b",
+        "name": "Score for the implementation of UNCLOS and its two implementing agreements (percent) (ER_UNCLOS_IMPLE)"
+      },
+      {
+        "itemid": "7cc4fb2d7b2d4694b7913c60053778f4",
+        "name": "Sustainable fisheries as a proportion of GDP (EN_SCP_FSHGDP)"
+      },
+      {
+        "itemid": "842eb13a5f2742d9ae3a604058d6eeea",
+        "name": "Protected marine area (Exclusive Economic Zones) (square kilometres) (ER_MRN_MARINT)"
+      },
+      {
+        "itemid": "924fa164456446919c8382511c99cbdc",
+        "name": "Degree of application of a legal regulatory policy institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest) (ER_REG_SSFRAR)"
+      },
+      {
+        "itemid": "92ae18a6a60e4cb7ba52c60a80404fbd",
+        "name": "Chlorophyll-a deviations  remote sensing (percent) (EN_MAR_CHLDEV)"
+      },
+      {
+        "itemid": "b71d4063e1fa41cab812e3c32df3b892",
+        "name": "Proportion of fish stocks within biologically sustainable levels (not overexploited) (percent) (ER_H2O_FWTL)"
+      },
+      {
+        "itemid": "ce4f42ae0f474e3cbe6586946ae37649",
+        "name": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (percent) (ER_MRN_MPA)"
+      },
+      {
+        "itemid": "f0c96322ff4a4d8bbf063a945430e04e",
+        "name": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal  unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest) (ER_REG_UNFCIM)"
+      }
+    ]
+  },
+  {
+    "goal": "goal15",
+    "itemid": "e56e55d8e9ec4144963e02792b27f8c6",
+    "series_inventory": [
+      {
+        "itemid": "0899ce310008431f85e9e5ffd98453b2",
+        "name": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1  YES; 0  NO) (ER_CBD_PTYPGRFA)"
+      },
+      {
+        "itemid": "0a00c0c708de4f90bbe35cba44a99da2",
+        "name": "Proportion of forest area under a long-term management plan (percent) (AG_LND_FRSTMGT)"
+      },
+      {
+        "itemid": "111142feb94f4bb69c307d612ecd7cc6",
+        "name": "Above-ground biomass stock in forest (tonnes per hectare) (AG_LND_FRSTBIOPHA)"
+      },
+      {
+        "itemid": "37900142cd81429190d1b8e34fd24e54",
+        "name": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (percent) (ER_PTD_TERR)"
+      },
+      {
+        "itemid": "46607d9d7ac644ba8fbfd440688af4ff",
+        "name": "Forest area annual net change rate (percent) (AG_LND_FRSTCHG)"
+      },
+      {
+        "itemid": "4e536960e6634288bafc3ef068183ea2",
+        "name": "Countries that are parties to the Nagoya Protocol (1  YES; 0  NO) (ER_CBD_NAGOYA)"
+      },
+      {
+        "itemid": "67aebe429f4f4a8ab32e443a07c4fd63",
+        "name": "Red List Index (ER_RSK_LST)"
+      },
+      {
+        "itemid": "79cb7d7881f3448da35871b2b630b117",
+        "name": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (percent) (ER_PTD_FRHWTR)"
+      },
+      {
+        "itemid": "7b674619ade143c5b4a5cc1620435d21",
+        "name": "Forest area as a proportion of total land area (percent) (AG_LND_FRST)"
+      },
+      {
+        "itemid": "7cc511fcf86448b58d53a17a0c68d65c",
+        "name": "Legislation  Regulation  Act related to the prevention of introduction and management of Invasive Alien Species (1  YES  0  NO) (ER_IAS_LEGIS)"
+      },
+      {
+        "itemid": "8599e38cc9684498a64cf633aabb7080",
+        "name": "Proportion of forest area within legally established protected areas (percent) (AG_LND_FRSTPRCT)"
+      },
+      {
+        "itemid": "9b305bd15e004f15b4c63a40af0beb97",
+        "name": "Total official development assistance for biodiversity  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_BDVDL)"
+      },
+      {
+        "itemid": "9e2a2f890d3c471f809ecdd9ea208393",
+        "name": "Land area (thousands of hectares) (AG_LND_TOTL)"
+      },
+      {
+        "itemid": "a332705ec22e442489c81638532ca357",
+        "name": "Countries that have legislative  administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1  YES; 0  NO) (ER.."
+      },
+      {
+        "itemid": "a404dec520874901ab9015f0e3b05d9a",
+        "name": "Forest area (thousands of hectares) (AG_LND_FRSTN)"
+      },
+      {
+        "itemid": "a839cd5dc0b446feb9363bfb1a5035f3",
+        "name": "Forest area under an independently verified forest management certification scheme (thousands of hectares) (AG_LND_FRSTCERT)"
+      },
+      {
+        "itemid": "a83ee5708fef44c196b06e689f5db386",
+        "name": "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1  YES  0  NO) (ER_IAS_NBSAP)"
+      },
+      {
+        "itemid": "b7602ccd24224d0c9efb06174477c567",
+        "name": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number) (ER_CBD_SMTA)"
+      },
+      {
+        "itemid": "c414c586c9414741903cdd0173df4506",
+        "name": "Total official development assistance for biodiversity  by recipient countries (millions of constant 2018 United States dollars) (DC_ODA_BDVL)"
+      },
+      {
+        "itemid": "d5568db4c6a544cb923b1fca97316069",
+        "name": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (percent) (ER_PTD_MTN)"
+      },
+      {
+        "itemid": "e1cad9c652424ce9ab2f748455152ce5",
+        "name": "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1  YES; 0  NO) (ER_BDY_ABT2NP)"
+      },
+      {
+        "itemid": "e360c7b74f864c8d9f83477c83347c6d",
+        "name": "Countries with integrated biodiversity values into national accounting and reporting systems  defined as implementation of the System of Environmental-Economic Accounting  (1  YES; 0  NO) (ER_BDY_SEEA)"
+      },
+      {
+        "itemid": "ed8c1dec2c85464f8a1678ede8d2691e",
+        "name": "Countries that have legislative  administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1  YES; 0  NO) (ER_CBD_ABSCLRHS)"
+      },
+      {
+        "itemid": "f22e1d65d2504ff2a1887ad13863660c",
+        "name": "Proportion of land that is degraded over total land area (percent) (AG_LND_DGRD)"
+      },
+      {
+        "itemid": "f628cc80c2c1412ea7c1da3579ce131b",
+        "name": "Mountain Green Cover Index (ER_MTN_GRNCVI)"
+      }
+    ]
+  },
+  {
+    "goal": "goal16",
+    "itemid": "bb8da56525e544db8dd28cb98d30bc76",
+    "series_inventory": [
+      {
+        "itemid": "00b9ba1cd974474d974ac8da057a0c4d",
+        "name": "Number of cases of enforced disappearance of human rights defenders  journalists and trade unionists (Number) (VC_VOC_ENFDIS)"
+      },
+      {
+        "itemid": "0267ec6bd2b041ebbc2e569bc5e01fc5",
+        "name": "Number of youth in parliament (age 45 or below)  Upper Chamber (Number) (SG_DMK_PARLYN_UC)"
+      },
+      {
+        "itemid": "037f847b00a84d0b8d5e4fc5d49552b1",
+        "name": "Number of conflict-related deaths (civilians) per 100 000 population (Per 100 000 population) (VC_DTH_TOCV)"
+      },
+      {
+        "itemid": "06389bd0ee9c47f5a97fcdf2483efdd3",
+        "name": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary)  Upper Chamber (SG_DMK_PARLMP_UC)"
+      },
+      {
+        "itemid": "145d74ada1cc48bf87c5b52a98c78dbb",
+        "name": "Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles (percent) (SG_NHR_INTEXST)"
+      },
+      {
+        "itemid": "1644d315552e412e9e8b3eed06d58837",
+        "name": "Detected victims of human trafficking for other purposes  by age and sex (number) (VC_HTF_DETVOP)"
+      },
+      {
+        "itemid": "1b285ecb62a34b6fb0529ef9422a7a4e",
+        "name": "Police reporting rate for physical assault  by sex (percent) (VC_PRR_PHYV)"
+      },
+      {
+        "itemid": "1bded69f7ae6408bb1234b70acdd0718",
+        "name": "Police reporting rate for robbery  by sex (percent) (VC_PRR_ROBB)"
+      },
+      {
+        "itemid": "1ff12d3a14774cdaa0da7d1d3d2cbfc7",
+        "name": "Detected victims of human trafficking for sexual exploitaton  by age and sex (number) (VC_HTF_DETVSX)"
+      },
+      {
+        "itemid": "260357492c7249b89fc1b09d5ca7bd65",
+        "name": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary)  Lower Chamber or Unicameral (SG_DMK_PARLMP_LC)"
+      },
+      {
+        "itemid": "2c960395e4eb4a2680446fec6105de58",
+        "name": "Number of conflict-related deaths (civilians)  by sex  age and cause of death (Number) (VC_DTH_TOCVN)"
+      },
+      {
+        "itemid": "3769776065f6430aae91952808756cfa",
+        "name": "Proportion of youth in parliament (age 45 or below)  Upper Chamber (percent) (SG_DMK_PARLYP_UC)"
+      },
+      {
+        "itemid": "39108a1d537648b68b6b88000e91b1bc",
+        "name": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary)  Upper Chamber (SG_DM.."
+      },
+      {
+        "itemid": "3bcb00bc51a340aea88b3b69c5a3481d",
+        "name": "Primary government expenditures as a proportion of original approved budget (percent) (GF_XPD_GBPC)"
+      },
+      {
+        "itemid": "3eb6cbd8e0b441e7906a1a4e92f6271c",
+        "name": "Countries with National Human Rights Institutions and no status with the Paris Principles  C status (1  YES; 0  NO) (SG_NHR_NOSTUSN)"
+      },
+      {
+        "itemid": "43db9528ebad40ada1a2ddb4189162d0",
+        "name": "Countries with National Human Rights Institutions not fully compliant with the Paris Principles  B status (1  YES; 0  NO) (SG_NHR_INTEXSTN)"
+      },
+      {
+        "itemid": "446eb9e1aac644ec9b0e93fe59794fc4",
+        "name": "Proportion of population subjected to physical violence in the previous 12 months  by sex (percent) (VC_VOV_PHYL)"
+      },
+      {
+        "itemid": "4818c87899d84661af3db9a312a8afe0",
+        "name": "Number of victims of intentional homicide per 100 000 population  by sex (victims per 100 000 population) (VC_IHR_PSRC)"
+      },
+      {
+        "itemid": "48603c9cea9e4b95a41f5558e3c5ff9f",
+        "name": "Proportion of population subjected to sexual violence in the previous 12 months  by sex (percent) (VC_VOV_SEXL)"
+      },
+      {
+        "itemid": "53967262fdfc44e6b40124ae511c9fa1",
+        "name": "Number of speakers in parliament  by age and sex   Lower Chamber or Unicameral (SG_DMK_PARLSP_LC)"
+      },
+      {
+        "itemid": "5404b0eabcd74e71b5d8cff2c7183cff",
+        "name": "Number of victims of intentional homicide  by sex (number) (VC_IHR_PSRCN)"
+      },
+      {
+        "itemid": "57d27ffce54d491bb2ce78a1ab8c2042",
+        "name": "Conflict-related death rate (civilians)  by sex  age and cause of death (percent) (VC_DTH_TOCVR)"
+      },
+      {
+        "itemid": "63904788c9cb42628ed0ea48290497a1",
+        "name": "Detected victims of human trafficking  by age and sex (number) (VC_HTF_DETV)"
+      },
+      {
+        "itemid": "63de01621cd347f08d807aba1978dbf0",
+        "name": "Number of chairs of permanent committees  by age sex and focus of the committee  Upper Chamber (SG_DMK_PARLCC_UC)"
+      },
+      {
+        "itemid": "68dfebadef9b4724be0231a99c982de9",
+        "name": "Proportion of seized  found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments (VC_ARM_SZTRACE)"
+      },
+      {
+        "itemid": "6f25e1e86be541d9a2432c96f6efdda5",
+        "name": "Bribery incidence (percent of firms experiencing at least one bribe payment request) (IC_FRM_BRIB)"
+      },
+      {
+        "itemid": "73e5d263dcd742439635d57694a2926a",
+        "name": "Prevalence rate of bribery  by sex (percent) (IU_COR_BRIB)"
+      },
+      {
+        "itemid": "74e5e3f15701432a911405b072c455ea",
+        "name": "Countries with National Human Rights Institutions in compliance with the Paris Principles  A status (1  YES; 0  NO) (SG_NHR_IMPLN)"
+      },
+      {
+        "itemid": "892ab67e9df3495998b0fe81cac64ba5",
+        "name": "Proportion of youth in parliament (age 45 or below)  Lower Chamber or Unicameral (percent) (SG_DMK_PARLYP_LC)"
+      },
+      {
+        "itemid": "8cf1f3eaed5d4d0d91673e83796a9749",
+        "name": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary)  Lower Chamber or Uni.."
+      },
+      {
+        "itemid": "8f2ff915071d45ff88f7d187b9ef05b2",
+        "name": "Proportion of population aged 18-29 years who experienced sexual violence by age\u00a018  by sex (percent of population aged 18-29) (VC_VAW_SXVLN)"
+      },
+      {
+        "itemid": "b6ed8eb1ffcf4759abdbc805d3b66187",
+        "name": "Proportion of children under 5 years of age whose births have been registered with a civil authority (percent of children under 5 years of age) (SG_REG_BRTH)"
+      },
+      {
+        "itemid": "b6ee5c0a91014845b5f8796ee4602a95",
+        "name": "Countries that adopt and implement constitutional  statutory and or policy guarantees for public access to information (SG_INF_ACCSS)"
+      },
+      {
+        "itemid": "b97ac1eeb3af45efbedfd0297bcad56d",
+        "name": "Number of youth in parliament (age 45 or below)  Lower Chamber or Unicameral (Number) (SG_DMK_PARLYN_LC)"
+      },
+      {
+        "itemid": "bf69dc0485ab44e28adec2090b8d50ba",
+        "name": "Police reporting rate for sexual assault  by sex (percent) (VC_PRR_SEXV)"
+      },
+      {
+        "itemid": "c3274995d1814bf5b1b5cf55de74c3aa",
+        "name": "Number of cases of killings of human rights defenders  journalists and trade unionists (VC_VAW_MTUHRA)"
+      },
+      {
+        "itemid": "c4acb5a7f8074e749b9c8b8fd67d631b",
+        "name": "Number of chairs of permanent committees  by age sex and focus of the committee  Lower Chamber or Unicameral (SG_DMK_PARLCC_LC)"
+      },
+      {
+        "itemid": "cca1a1a9c2c145758712199fe1f5aae8",
+        "name": "Number of chairs of permanent committees  by age sex and focus of the committee  Joint Committees (SG_DMK_PARLCC_JC)"
+      },
+      {
+        "itemid": "cdbf6e6509934cbaa7c5241519229d7e",
+        "name": "Detected victims of human trafficking for removal of organ  by age and sex (number) (VC_HTF_DETVOG)"
+      },
+      {
+        "itemid": "d676e8bbdba7444ba3cc2fd17af99133",
+        "name": "Proportion of population subjected to robbery in the previous 12 months  by sex (percent) (VC_VOV_ROBB)"
+      },
+      {
+        "itemid": "d93ec8e1c73a42eea6d9b70a3087934f",
+        "name": "Unsentenced detainees as a proportion of overall prison population (percent) (VC_PRS_UNSNT)"
+      },
+      {
+        "itemid": "dca0265500ef4722a60d3875bd6a1abc",
+        "name": "Countries with no application for accreditation with the Paris Principles  D status  (1  YES; 0  NO) (SG_NHR_NOAPPLN)"
+      },
+      {
+        "itemid": "defb06c1d0194128a98a9407da3b5bcb",
+        "name": "Proportion of children aged 1-14 years who experienced physical punishment and or psychological aggression by caregivers in last month (percent of children aged 1-14 years) (VC_VAW_PHYPYV)"
+      },
+      {
+        "itemid": "f41d0b57508b4fe083dc70f74ba34377",
+        "name": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (percent) (SG_NHR_IMPL)"
+      },
+      {
+        "itemid": "f981e9cb6b0d4b8186987f560a7eda11",
+        "name": "Proportion of population that feel safe walking alone around the area they live (percent) (VC_SNS_WALN)"
+      },
+      {
+        "itemid": "fa34d5485dbd491ebe6fb1d473a8ce49",
+        "name": "Detected victims of human trafficking for forced labour  servitude and slavery  by age and sex (number) (VC_HTF_DETVFL)"
+      },
+      {
+        "itemid": "fad4b700aeff4051bc5cc6c8bf16ccbb",
+        "name": "Number of speakers in parliament  by age and sex  Upper Chamber (SG_DMK_PARLSP_UC)"
+      }
+    ]
+  },
+  {
+    "goal": "goal17",
+    "itemid": "9159ceee19c64d1bb368e7d1d3905c42",
+    "series_inventory": [
+      {
+        "itemid": "033d289b19f54bac9d0a2f04d58287fd",
+        "name": "Countries with national statistical plans that are fully funded (1  YES; 0  NO) (SG_STT_NSDSFND)"
+      },
+      {
+        "itemid": "11db1ae6ffe14b1aab59e1de9aa65343",
+        "name": "Volume of remittances (in United States dollars) as a proportion of total GDP (percent) (BX_TRF_PWKR)"
+      },
+      {
+        "itemid": "154af6f1c0114640af7f7a83b72cb14a",
+        "name": "Worldwide weighted tariff-average  most-favoured-nation status  by type of product (percent) (TM_TAX_WMFN)"
+      },
+      {
+        "itemid": "16e043221f874304a1fc7a26b92935fc",
+        "name": "Net official development assistance (ODA) from OECD-DAC countries  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_TOTL)"
+      },
+      {
+        "itemid": "1b674594d8e34be1bfabdac7215a6cf7",
+        "name": "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI  by donor countries (percent) (DC_ODA_LLDCG)"
+      },
+      {
+        "itemid": "228a9a9d68a248dc8bffe96aa3eb8787",
+        "name": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise imports (percent) (TX_IMP_GBMRCH)"
+      },
+      {
+        "itemid": "3141755fa17c4ab6a95a231b63b90506",
+        "name": "Fixed Internet broadband subscriptions per 100\u00a0inhabitants  by speed (per 100 inhabitants) (IT_NET_BBND)"
+      },
+      {
+        "itemid": "34b1afc29ceb46a0bd77d2f2389453e6",
+        "name": "Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1  YES; 0  NO) (SG_STT_FPOS)"
+      },
+      {
+        "itemid": "34ec195ec21441e187a607f67309b2bc",
+        "name": "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI  by donor countries (percent) (DC_ODA_SIDSG)"
+      },
+      {
+        "itemid": "35cf9d06118f4c5191a06e28a3aca9e6",
+        "name": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI  by donor countries (percent) (DC_ODA_TOTG)"
+      },
+      {
+        "itemid": "384f606a4c9642c0a757c08cf5b7855c",
+        "name": "Countries with death registration data that are at least 75 percent complete (1  YES; 0  NO) (SG_REG_DETH75N)"
+      },
+      {
+        "itemid": "39930b5c48894e4fa58a69913ca61917",
+        "name": "Foreign direct investment (FDI) inflows (millions of US dollars) (GF_FRN_FDI)"
+      },
+      {
+        "itemid": "3a8f01ac1b5848c4b3016671b8aa1e78",
+        "name": "Average tariff applied by developed countries  preferential status  by type of product (percent) (TM_TAX_DPRF)"
+      },
+      {
+        "itemid": "4446da86a9b74301acf37ecda9cbe66f",
+        "name": "Countries with birth registration data that are at least 90 percent complete (1  YES; 0  NO) (SG_REG_BRTH90N)"
+      },
+      {
+        "itemid": "45d9fd7498474b4c89a0119d458a7108",
+        "name": "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_LLDC)"
+      },
+      {
+        "itemid": "4ebd3e84b2b54a9ca554bc974eb85e26",
+        "name": "Proportion of countries with birth registration data that are at least 90 percent complete (percent) (SG_REG_BRTH90)"
+      },
+      {
+        "itemid": "54ea9ad9cbec4364a3853feed5b1c6e0",
+        "name": "Proportion of countries that have conducted at least one population and housing census in the last 10 years (percent) (SG_REG_CENSUS)"
+      },
+      {
+        "itemid": "553ac48a06db44f3963d13b5d2e92f83",
+        "name": "Amount of United States dollars committed to public-private partnerships for infrastructure  million USD nominal (GF_COM_PPPI)"
+      },
+      {
+        "itemid": "5e7ee9b728524e3ea14705fdefd4b066",
+        "name": "Countries with national statistical plans with funding from donors (1  YES; 0  NO) (SG_STT_NSDSFDDNR)"
+      },
+      {
+        "itemid": "61f965d156504e1ba8c8ba3bee8d2745",
+        "name": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (percent)  (SG_PLN_PRPOLRES)"
+      },
+      {
+        "itemid": "6d9a010ae10f4fc198413a76268350fa",
+        "name": "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_SIDS)"
+      },
+      {
+        "itemid": "724f91a114b745918f6cdb8aea1cbfaf",
+        "name": "Proportion of countries with death registration data that are at least 75 percent complete (percent) (SG_REG_DETH75)"
+      },
+      {
+        "itemid": "733a2e4d3f9a407cbe3e806d6d16242e",
+        "name": "Countries with national statistical plans that are under implementation (1  YES; 0  NO) (SG_STT_NSDSIMPL)"
+      },
+      {
+        "itemid": "74250ff939384501a003c4a70a404c6e",
+        "name": "Countries with national statistical plans with funding from others (1  YES; 0  NO) (SG_STT_NSDSFDOTHR)"
+      },
+      {
+        "itemid": "76ce1644991740ab9a376074b5a09283",
+        "name": "Total government revenue (budgetary central government) as a proportion of GDP (percent) (GR_G14_GDP)"
+      },
+      {
+        "itemid": "79bae30679b94250b10580d69633398a",
+        "name": "Mechanisms in place to enhance policy coherence for sustainable development (percent) (SG_CPA_SDEVP)"
+      },
+      {
+        "itemid": "7de90e3873ed4c19b8af15d91119bfb4",
+        "name": "Amount of United States dollars committed to public-private partnerships for infrastructure  million USD real (GF_COM_PPPI_KD)"
+      },
+      {
+        "itemid": "83f96c2b2c5c4abe88d046bc8a980748",
+        "name": "Proportion of results indicators drawn from country-led results frameworks - data by recipient (percent) (SG_PLN_RECRICTRY)"
+      },
+      {
+        "itemid": "89563940257c4b4490c10f016601138e",
+        "name": "Proportion of domestic budget funded by domestic taxes (percent of GDP) (GC_GOB_TAXD)"
+      },
+      {
+        "itemid": "90864af27f684c8cb610ad746b18fca6",
+        "name": "Developing countries\u2019 and least developed countries\u2019 share of global services exports (percent) (TX_EXP_GBSVR)"
+      },
+      {
+        "itemid": "9143da23390249139a1bcf298b77045c",
+        "name": "Debt service as a proportion of exports of goods and services (percent) (DT_TDS_DECT)"
+      },
+      {
+        "itemid": "96aabbf78fd54666a37406154aec1a8f",
+        "name": "Total government revenue  in local currency (GR_G14_XDC)"
+      },
+      {
+        "itemid": "98b5fe40071a4ca19e9a7b097dace58d",
+        "name": "Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (percent) (SG_PLN_PRVNDI)"
+      },
+      {
+        "itemid": "9c71fd04b8a540419862fde654368423",
+        "name": "Total official development assistance (gross disbursement) for technical cooperation (millions of 2018 United States dollars) (DC_FTA_TOTAL)"
+      },
+      {
+        "itemid": "a08a4559642e44f18dde6222ce1b3638",
+        "name": "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (percent) (SG_PLN_RECNDI)"
+      },
+      {
+        "itemid": "aab68ca9a1db44ba88eca2222a5dded3",
+        "name": "Internet users per 100 inhabitants (IT_USE_ii99)"
+      },
+      {
+        "itemid": "ab063f87726045f6adb75ff9cd1f673e",
+        "name": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals  Provider (1  YES; 0  NO) (SG_PLN_MSTKSDG_P)"
+      },
+      {
+        "itemid": "ab7c4a8d00b24e11b5019b9b57544015",
+        "name": "Countries with national statistical plans with funding from Government (1  YES; 0  NO) (SG_STT_NSDSFDGVT)"
+      },
+      {
+        "itemid": "b01bf8d31d414378b5cbf0544eeff927",
+        "name": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals  Recipient (1  YES; 0  NO) (SG_PLN_MSTKSDG_R)"
+      },
+      {
+        "itemid": "b20872d79090489fb1a7e10c172452da",
+        "name": "Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis  by donor countries (percent) (DC_ODA_TOTGGE)"
+      },
+      {
+        "itemid": "b6fb84bf4cc54d4ebf9bae8d8254d578",
+        "name": "Number of fixed Internet broadband subscriptions  by speed (number) (IT_NET_BBNDN)"
+      },
+      {
+        "itemid": "baa04b5e8b784b95acc02a2414a2f5f9",
+        "name": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (percent) (SG_PLN_PRVRIMON)"
+      },
+      {
+        "itemid": "c090a7d4da8e47bcae08f76bfec59906",
+        "name": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (percent)  (SG_PLN_REPOLRES)"
+      },
+      {
+        "itemid": "c0e2878ad47e49a2b47581d2c2a75b57",
+        "name": "Number of countries with a signed bilateral investment treaty (BIT) (Number) (SG_CPA_SIGN_BIT)"
+      },
+      {
+        "itemid": "c61e61bab3f9433b9be42ad84b9052a9",
+        "name": "Net official development assistance (ODA) to LDCs from OECD-DAC countries  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_LDCS)"
+      },
+      {
+        "itemid": "cef6ca55528f41f7ba9baf7dd4ddbfcc",
+        "name": "Developing countries\u2019 and least developed countries\u2019 share of global services imports (percent) (TX_IMP_GBSVR)"
+      },
+      {
+        "itemid": "cfab843e51fd448eb5680a312023ab73",
+        "name": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI  by donor countries (percent) (DC_ODA_LDCG)"
+      },
+      {
+        "itemid": "dce1f05309894e57be5496c21a1c3cdb",
+        "name": "Average tariff applied by developed countries  most-favored nation status  by type of product (percent) (TM_TAX_DMFN)"
+      },
+      {
+        "itemid": "e347e281bfe545afa8ef1c99093eb987",
+        "name": "Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars) (SG_STT_CAPTY)"
+      },
+      {
+        "itemid": "eb35f6e436744d8d8a46d9aab703c75a",
+        "name": "Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis  by donor countries (millions of constant 2018 United States dollars) (DC_ODA_TOTLGE)"
+      },
+      {
+        "itemid": "f0e23cb09ad949078d37e22534b799f1",
+        "name": "Number of countries with an inforce bilateral investment treaty (BIT) (Number) (SG_CPA_INFORCE_BIT)"
+      },
+      {
+        "itemid": "f4ae382b6fba4e35bc365e458299cb4a",
+        "name": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise exports (percent) (TX_EXP_GBMRCH)"
+      },
+      {
+        "itemid": "f54859b60a7a41209ad802226d668aa8",
+        "name": "Proportion of results indicators drawn from country-led results frameworks - data by provider (percent) (SG_PLN_PRVRICTRY)"
+      },
+      {
+        "itemid": "fb2f9c9566b8412781805cfc35f55d1e",
+        "name": "Countries that have conducted at least one population and housing census in the last 10 years (1  YES; 0  NO) (SG_REG_CENSUSN)"
+      },
+      {
+        "itemid": "fca99ec0a36e435d935b4f6845263473",
+        "name": "Worldwide weighted tariff-average  preferential status  by type of product (percent) (TM_TAX_WMPS)"
+      },
+      {
+        "itemid": "fcf178ee9bd14018ae501b5ce34995c3",
+        "name": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (percent) (SG_PLN_RECRIMON)"
+      }
+    ]
+  }
+]

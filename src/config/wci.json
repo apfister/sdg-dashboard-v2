@@ -1,0 +1,19 @@
+{
+  "geographyLayers": [
+    {
+      "name": "Counties",
+      "itemId": "c97aa681217544b593f1a50a4c4f0c16",
+      "joinField": "GEOID",
+      "isDefault": true
+    }
+  ],
+  "sdgMetadataItem": "f906063364c342e48820cdf6e9bb9c10",
+  "availableLookupItem": "b1549f147c87490f89646a3f9625ed60",
+  "initialExtent": {
+    "spatialReference": { "wkid": 102100 },
+    "xmin": -11130823.375678245,
+    "ymin": 5254476.4107735725,
+    "xmax": -9876033.119349126,
+    "ymax": 6450563.029379693
+  }
+}

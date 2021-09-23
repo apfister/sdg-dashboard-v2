@@ -1,0 +1,25 @@
+{
+  "layers": "Capas",
+  "addToMap": "Agregar al mapa",
+  "addedToMap": "Agregado al mapa",
+  "notice": {
+    "add": {
+      "title": "Se ha agregado la capa",
+      "message": "Revisa el panel Capas"
+    }
+  },
+  "modal": {
+    "remove": {
+      "title": "¿Estás seguro de que quieres eliminar esta capa?",
+      "confirm": "Confirmar",
+      "remove": "Eliminar",
+      "cancel": "Cancelar"
+    }
+  },
+  "dimensions": {
+    "title": "Dimensiones"
+  },
+  "charts": {
+    "title": "Gráficos"
+  }
+}

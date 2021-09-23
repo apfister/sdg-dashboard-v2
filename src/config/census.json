@@ -1,0 +1,32 @@
+{
+  "geographyLayers": [
+    {
+      "name": "US",
+      "itemId": "ae3d1c019b0040178abe138a0e8a41a6",
+      "joinField": "AFFGEOID",
+      "isDefault": false
+    },
+    {
+      "name": "States",
+      "itemId": "7198861502fd464790c5e16df91c1409",
+      "joinField": "AFFGEOID",
+      "isDefault": true
+    },
+    {
+      "name": "Counties",
+      "itemId": "6f8606daac5e4720bf22d463d22a10ee",
+      "joinField": "AFFGEOID",
+      "isDefault": false
+    }
+  ],
+  "sdgMetadataItem": "f906063364c342e48820cdf6e9bb9c10",
+  "availableLookupItem": "5e5947250af642d9841792d5c3e914b5",
+  "dimensionLookupItem": "d7a998881ff04f10aa21424b2ce68403",
+  "initialExtent": {
+    "spatialReference": { "latestWkid": 3857, "wkid": 102100 },
+    "xmin": -17698426.59335867,
+    "ymin": 1657204.3378577186,
+    "xmax": -6212081.478891644,
+    "ymax": 9758306.343631737
+  }
+}

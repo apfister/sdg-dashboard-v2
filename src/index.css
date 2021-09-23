@@ -1,4 +1,3 @@
-@import 'https://js.arcgis.com/4.19/@arcgis/core/assets/esri/themes/light/main.css';
 html,
 body,
 #root {
@@ -6,4 +5,141 @@ body,
   margin: 0;
   height: 100%;
   width: 100%;
+}
+
+.mapDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Map Legend Overrides */
+.esri-layer-list {
+  padding: 0;
+}
+
+.esri-layer-list__list {
+  padding: 0 !important;
+}
+
+.esri-layer-list__item {
+  margin: 0;
+}
+
+.esri-legend__layer-table:nth-child(odd) {
+  display: none;
+}
+
+.esri-legend__layer-table:nth-child(even) .esri-legend__layer-caption {
+  display: none;
+}
+
+.esri-layer-list__item-actions[aria-expanded=true] {
+  animation: none;
+}
+
+
+/* SDG Icons fill for calcite action bar */
+.sdgca_1 {
+  /* background-color: #e5243b; */
+  /* color: #e5243b; */
+  /* border: 1px solid #e5243b; */
+  --calcite-ui-text-3: #e5243b;
+}
+.sdgca_2 {
+  /* background-color: #e5b735; */
+  /* color: #e5b735; */
+  /* border: 1px solid #e5b735; */
+  --calcite-ui-text-3: #e5b735;
+}
+.sdgca_3 {
+  /* background-color: #4c9f38; */
+  /* color: #4c9f38; */
+  /* border: 1px solid #4c9f38; */
+  --calcite-ui-text-3: #4c9f38;
+}
+.sdgca_4 {
+  /* background-color: #c5192d; */
+  /* color: #c5192d; */
+  /* border: 1px solid #c5192d; */
+  --calcite-ui-text-3: #c5192d;
+}
+.sdgca_5 {
+  /* background-color: #ff3a21; */
+  /* color: #ff3a21; */
+  /* border: 1px solid #ff3a21; */
+  --calcite-ui-text-3: #ff3a21;
+}
+.sdgca_6 {
+  /* background-color: #26bde2; */
+  /* color: #26bde2; */
+  /* border: 1px solid #26bde2; */
+  --calcite-ui-text-3: #26bde2;
+}
+.sdgca_7 {
+  /* background-color: #fcc30b; */
+  /* color: #fcc30b; */
+  /* border: 1px solid #fcc30b; */
+  --calcite-ui-text-3: #fcc30b;
+}
+.sdgca_8 {
+  /* background-color: #a21942; */
+  /* color: #a21942; */
+  /* border: 1px solid #a21942; */
+  --calcite-ui-text-3: #a21942;
+}
+.sdgca_9 {
+  /* background-color: #fd6925; */
+  /* color: #fd6925; */
+  /* border: 1px solid #fd6925; */
+  --calcite-ui-text-3: #fd6925;
+}
+.sdgca_10 {
+  /* background-color: #dd1367; */
+  /* color: #dd1367; */
+  /* border: 1px solid #dd1367; */
+  --calcite-ui-text-3: #dd1367;
+}
+.sdgca_11 {
+  /* background-color: #fd9d24; */
+  /* color: #fd9d24; */
+  /* border: 1px solid #fd9d24; */
+  --calcite-ui-text-3: #fd9d24;
+}
+.sdgca_12 {
+  /* background-color: #c9992d; */
+  /* color: #c9992d; */
+  /* border: 1px solid #c9992d; */
+  --calcite-ui-text-3: #c9992d;
+}
+.sdgca_13 {
+  /* background-color: #3f7e44; */
+  /* color: #3f7e44; */
+  /* border: 1px solid #3f7e44; */
+  --calcite-ui-text-3: #3f7e44;
+}
+.sdgca_14 {
+  /* background-color: #0a97d9; */
+  /* color: #0a97d9; */
+  /* border: 1px solid #0a97d9; */
+  --calcite-ui-text-3: #0a97d9;
+}
+.sdgca_15 {
+  /* background-color: #56c02b; */
+  /* color: #56c02b; */
+  /* border: 1px solid #56c02b; */
+  --calcite-ui-text-3: #56c02b;
+}
+.sdgca_16 {
+  /* background-color: #00689d; */
+  /* color: #00689d; */
+  /* border: 1px solid #00689d; */
+  --calcite-ui-text-3: #00689d;
+}
+.sdgca_17 {
+  /* background-color: #19486a; */
+  /* color: #19486a; */
+  /* border: 1px solid #19486a; */
+  --calcite-ui-text-3: #19486a;
 }

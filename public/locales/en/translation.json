@@ -1,0 +1,45 @@
+{
+  "layers": {
+    "title": "Layers",
+    "noLayers": "Add a layer from one of the SDG Goals panels"
+  },
+  "sdgDatasetsPanel": {
+    "noDatasets": "No datasets found"
+  },
+  "addToMap": "Add to Map",
+  "addedToMap": "Added to Map",
+  "notice": {
+    "add": {
+      "title": "Layer has been added",
+      "message": "You can now view your layer in the Layers panel"
+    },
+    "remove": {
+      "title": "Layer has been removed"
+    }
+  },
+  "modal": {
+    "remove": {
+      "title": "Are you sure you want to remove this layer?",
+      "confirm": "Confirm",
+      "remove": "Remove",
+      "cancel": "Cancel"
+    }
+  },
+  "dimensions": {
+    "title": "Dimensions",
+    "geography": "Geography",
+    "year": {
+      "title": "Year",
+      "placeholder": "Select a year"
+    },
+    "more": "More Dimensions",
+    "notSelectedTitle": "No Layer",
+    "notSelected": "Click the Show Dimensions button on a layer in the Layers Panel to see dimensions"
+  },
+  "charts": {
+    "title": "Charts"
+  },
+  "legend": {
+    "title": "Legend"
+  }
+}

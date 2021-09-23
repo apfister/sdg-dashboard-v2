@@ -1,0 +1,33 @@
+{
+  "geographyLayers": [
+    {
+      "name": "Guam Admin Boundaries",
+      "itemId": "5f7c3d36b627432dbe54f88d5a65e767",
+      "joinField": "OBJECTID",
+      "isDefault": true
+    },
+    {
+      "name": "Guam Fake Admin 3 Boundaries",
+      "itemId": "1ec4415be3e24df5a115fb75d05eaab1",
+      "joinField": "GeoID"
+    }
+  ],
+  "sdgMetadataItem": "f906063364c342e48820cdf6e9bb9c10",
+  "availableLookupItem": "1c8cd31f057246d49eea442614719afd",
+  "dimensionConfig": {
+    "itemId": "18258f6715474de1b76a32c87ec633d1",
+    "seriesCodeField": "SERIES_CODE",
+    "seriesNameField": "SERIES_NAME",
+    "dimensionCodeField": "DIM_CODE",
+    "dimensionNameField": "DIM_NAME",
+    "valueCodeField": "VALUE_CODE",
+    "valueNameField": "VALUE_NAME"
+  },
+  "initialExtent": {
+    "spatialReference": { "wkid": 102100 },
+    "xmin": -23981836.077510796,
+    "ymin": 1489970.7172411492,
+    "xmax": -23936356.045681097,
+    "ymax": 1528877.1646383188
+  }
+}

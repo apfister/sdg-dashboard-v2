@@ -15,13 +15,21 @@ const GeographyCombobox = ({ layers }) => {
       onSelect={handleChange}
       placeholder="Select Geography"
       selectionMode="single"
+      scale="s"
     >
+      {/* <CalciteComboboxItem
+        key="hiiii"
+        icon="layerPolygon"
+        value="hello"
+        textLabel="pl"
+      /> */}
       {layers.map((layer, i) => {
         return (
           <CalciteComboboxItem
             key={layer.fl.id}
             icon="layerPolygon"
             value="hello"
+            selected={layer.defaultSelected}
             textLabel={layer.name}
           />
         );
