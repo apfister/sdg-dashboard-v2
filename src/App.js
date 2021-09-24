@@ -24,6 +24,8 @@ import { useTranslation } from "react-i18next";
 import { useLocation } from "react-router-dom";
 import SDGAlertBar from "./components/SDGAlertBar";
 
+import * as intl from "@arcgis/core/intl";
+
 // import config from "./config/config-census.json";
 // import config from "./config/config-wci.json";
 
@@ -68,6 +70,7 @@ function App() {
       const loc = params.get("locale");
       if (["en", "es"].includes(loc)) {
         i18n.changeLanguage(loc);
+        intl.setLocale(loc);
       }
     }
 
@@ -101,7 +104,7 @@ function App() {
   // update light/dark theme
   useEffect(() => {
     const style = document.getElementById("esri-js-api-style");
-    style.href = `https://js.arcgis.com/4.20/@arcgis/core/assets/esri/themes/${activeTheme}/main.css`;
+    style.href = `https://js.arcgis.com/4.21/@arcgis/core/assets/esri/themes/${activeTheme}/main.css`;
   }, [activeTheme]);
 
   const updateGeoLayers = (layers) => {
@@ -204,6 +207,10 @@ function App() {
     stashedRemoveEvent.item.view.map.remove(stashedRemoveEvent.item.layer);
     setStashedRemoveEvent(null);
 
+    // reset dimensions panel
+    setSelectedDimensions({});
+    setSelectedLayerTitle(null);
+
     displayNotice(
       t("notice.remove.title"),
       null,
@@ -268,6 +275,7 @@ function App() {
     if (e.detail.selected) {
       console.log("setting year", year);
       setSelectedDimensionYear(year);
+      activeDynamicLayer.updateYear(year, selectedGeoLayer);
     }
   };
 

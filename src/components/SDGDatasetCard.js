@@ -57,8 +57,10 @@ const SDGDatasetCard = ({
       <div slot="footer-trailing">
         <CalciteButton
           appearance="outline"
-          scale="s"
-          iconStart="plus"
+          scale="m"
+          iconStart={
+            getIsDisabled() === "" && !isLoadingLayer ? "check" : "plus"
+          }
           loading={isLoadingLayer ? "" : undefined}
           onClick={() => handleOnAddToMapClick(lookupInfo)}
           disabled={getIsDisabled()}
